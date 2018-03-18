@@ -1,0 +1,645 @@
+,Name,OVAP Score,Address1,Address2,City,State,Zip,OccupancyType,BuildingHeight,NumberOfFloors,SquareFeet,CriticalInfrastructure,YearBuilt,NFIRSPropertyUse,ConstructionTypeId,BuildingAge
+0,Maui Jim,28.6,1 Aloha LN,,Peoria,IL,61614,B- Business,,1.0,1250001.0,,1968.0,569,Non-Combustible (All Metal) Class II,49.0
+1,Els Lodge #20,31.41,1 Elks DR,,Peoria,IL,61604,A-2 Restaurants,,2.0,8500.0,,1968.0,,Wood Frame Class V,49.0
+2,Alexander Street Steakhouse,32.51,100 Alexander AVE,,Peoria,IL,61603,A-2 Restaurants,,2.0,20000.0,,1968.0,161,Heavy Timber Class IV,49.0
+3,S & H Floor Covering,28.6,100 State ST #216,,Peoria,IL,61602,B- Business,,1.0,1200.0,,1968.0,599,Heavy Timber Class IV,49.0
+4,St Philomena Church,36.67,1000 W Albany AVE,,Peoria,IL,61614,A-3 Churches,,1.0,12600.0,,1953.0,131,Ordinary (Joisted Masonry) Class III,64.0
+5,Whalen's Auto Center,35.57,1000 W main ST #auto,,Peoria,IL,61606,M-Motor Vehicle Service Stations,,1.0,850.0,,1968.0,579,Wood Frame Class V,49.0
+6,Human Service Center,26.0,130 Richard Pryor PL,,Peoria,IL,61605,I- Adult Care,15.0,1.0,5000.0,,1968.0,322,Ordinary (Joisted Masonry) Class III,49.0
+15,Stecher's Automotive,33.73,1006 W main ST,,Peoria,IL,61606,M-Motor Vehicle Service Stations,,1.0,10000.0,,1968.0,579,Non-Combustible (Masonry) Class I,49.0
+16,Big Top TAT2,26.33,1009 N Sheridan RD,,Peoria,IL,61614,B- Business,,3.0,1650.0,,1968.0,557,Wood Frame Class V,49.0
+17,Rogy's South Side Catholic Child Care Center,31.24782006920415,1010 W Johnson ST,,Peoria,IL,61605,E- Day care through 12th grade,,0.0,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+18,Haddad's Restaurant,33.73,1010 W main ST,,peoria,IL,61606,A-2 Restaurants,,1.0,600.0,,1968.0,519,Non-Combustible (Masonry) Class I,49.0
+19,Lakeview Recreational Center,27.13,1013 W Lake AVE,,Peoria,IL,61614,A-3 Exhibition Halls,20.0,2.0,40000.0,,1970.0,120,Non-Combustible (All Metal) Class II,47.0
+20,Lins message,35.57,1014 W main ST,,peoria,IL,61606,B- Business,,2.0,700.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+21,MCCOYS QUALITY SERVICES,35.2,1016 W MAIN ST #MARKET,,PEORIA,IL,61606,B- Business,,1.0,1000.0,,1968.0,599,Non-Combustible (Masonry) Class I,49.0
+22,Lakeview Aquatic Center,23.83,1017 W Lake AVE,,Peoria,IL,61614,A-4 Swimming Pools,,1.0,3000.0,,1968.0,116,Non-Combustible (Masonry) Class I,49.0
+23,McDONALDS,28.97,1017 W MAIN ST,,PEORIA,IL,61606,A-2 Restaurants,,1.0,1500.0,,1968.0,161,Non-Combustible (Masonry) Class I,49.0
+24,Owens Recreational Center,30.68,1019 W Lake AVE,,Peoria,IL,61614,A-4 Skating Rinks,,2.0,100000.0,,1980.0,114,Non-Combustible (Masonry) Class I,37.0
+25,Schaefer Electric,31.24782006920415,1020 SW Jefferson AVE,,Peoria,IL,61605,B- Business,,2.0,18400.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+26,GYPSY LANE RETRO SALOON,33.0,1020 W MAIN ST #TATOO,,PEORIA,IL,61606,B- Business,,1.0,600.0,,1968.0,,Fire Resistive Class I,49.0
+27,Sam Harris Uniform,26.28,1021 N Sheridan ST,,Peoria,IL,61606,M- Retail or Wholesale Stores,,1.0,11500.0,,1968.0,529,Ordinary (Joisted Masonry) Class III,49.0
+31,Tuffentsamer Law Firm,33.73,1022 N Sheridan ST,,Peoria,IL,61606,"B- Professional Services (Architects,Attys., MD,Dentists)",40.0,2.0,2800.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+32,A WORLD OF WINGS,37.03,1024 W MAIN ST,,PEORIA,IL,61606,A-2 Restaurants,,1.0,2000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+33,Persimmon Lofts,24.78,1028 SW Adams ST,,Peoria,IL,61605,R-2 Apartment Houses,50.0,4.0,6000.0,,1968.0,429,Heavy Timber Class IV,49.0
+34,Simonson Apartments,30.0,1029 N University ST,,Peoria,IL,61614,R-2 Apartment Houses,35.0,3.0,11250.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+35,"RJS Constructors, Inc.",29.21,1030 W Olympia DR,,Peoria,IL,61615,B- Business,20.0,1.0,9600.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+36,Dixie Rose Country Cabaret,34.1,104 South ST,,Peoria,IL,61605,A-2 taverns and Bars,,1.0,1500.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+37,"ZUMBALT & ASSOCIATES, INC.",27.87,1040 W Olympia DR,,Peoria,IL,61615,B- Business,20.0,1.0,2400.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+38,Schnucks,30.92,10405 N Centerway ST,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,6000.0,,2016.0,519,Non-Combustible (All Metal) Class II,1.0
+42,Verizon Digital Store,30.68,10408 N Centerway DR #I & J,,Peoria,IL,61615,B- Business,22.0,1.0,3300.0,,2016.0,580,Non-Combustible (All Metal) Class II,1.0
+43,GENERAL PUMP & MACHINERY,31.24782006920415,1044 W Olympia DR,,Peoria,IL,61615,B- Business,20.0,1.0,4000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+44,St Jude Catholic School,31.9,10811 N Knoxvillle AVE,,Peoria,IL,61615,E- Day care through 12th grade,,1.0,78200.0,,2013.0,213,Wood Frame Class V,4.0
+45,Jim's Steak House,33.0,110 SW Jefferson AVE,,Peoria,IL,61603,A-2 Restaurants,,1.0,6000.0,,1990.0,161,Non-Combustible (All Metal) Class II,27.0
+46,Cody's Castle,33.0,1100 Greenlawn AVE,,Peoria,IL,61605,A-2 taverns and Bars,30.0,2.0,1600.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+47,Barbershop,27.01,1100 SW Jefferson AVE,,Peoria,IL,61605,B- Business,16.0,1.0,1000.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+48,Elks Lodge #483,27.5,1101 SW Jefferson AVE,,Peoria,IL,61605,A-2 Night Clubs,,1.0,5500.0,,1968.0,162,Wood Frame Class V,49.0
+49,Girl Scouts Of Central IL,27.99,1103 W Lake AVE,,Peoria,IL,61614,B- Business,20.0,1.0,4000.0,,1967.0,599,Ordinary (Joisted Masonry) Class III,50.0
+50,Cracked Pepper,23.71,1108 W Glen,,Peoria,IL,61614,A-2 Restaurants,,2.0,6000.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+54,Shell Gas Station,27.87,1108 W main ST,,peoria,IL,61606,M-Motor Vehicle Service Stations,,1.0,5000.0,,1968.0,571,Non-Combustible (Masonry) Class I,49.0
+55,Pioneer Smokehouse,31.24782006920415,1112 W pioneer PKY,,Peoria,IL,61615,A-2 Restaurants,,1.0,6000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+56,St. Marks Parish,33.0,1113 W Bradley AVE,,Peoria,IL,61606,A-3 Churches,50.0,2.0,12000.0,,1968.0,130,Ordinary (Joisted Masonry) Class III,49.0
+57,Unlimited Tanning,31.24782006920415,1119 W Glen AVE,,Peoria,IL,61614,B- Barber/Beauty Shops,,1.0,2800.0,Public Health,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+58,Professional Therapy Services,31.9,112 NE Madison AVE,,Peoria,IL,61603,B- Business,,1.0,1500.0,,1968.0,599,Non-Combustible (Masonry) Class I,49.0
+59,Bearded Owl Brewing,34.96,112 State ST #A,,Peoria,IL,61602,B- Business,,1.0,5000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+60,Jimmy Johns,29.33,1121 W main ST,,peoria,IL,61606,A-2 Restaurants,,1.0,4500.0,,1968.0,519,Non-Combustible (Masonry) Class I,49.0
+61,Noble Center,28.6,1125 W Lake AVE,,Peoria,IL,61614,B- Business,20.0,2.0,40000.0,,1960.0,599,Non-Combustible (Masonry) Class I,57.0
+62,Potter and Anderson Jeweers,21.51,,,Peoria,IL,61614,M- Retail or Wholesale Stores,,,6000.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+64,Peoria Public Library,32.04,107 NE Monroe ST,,Peoria,IL,61603,A-3 Libraries,,,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+66,Burke Engineering,31.9,114 State ST,,Peoria,IL,61602,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,1500.0,,1968.0,599,Heavy Timber Class IV,49.0
+67,St Paul Baptist church,33.86,114 W Forrest Hill AVE,,Peoria,IL,61604,A-3 Churches,,2.0,77000.0,,1968.0,131,Ordinary (Joisted Masonry) Class III,49.0
+68,Saddle Up,31.9,116 SW Jefferson AVE,,Peoria,IL,61605,A-2 taverns and Bars,,1.0,7000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+69,Unity-Point Mthhodist Finance office,31.17,120 NE Glen Oak AVE,,Peoria,IL,61603,B- Business,,3.0,6000.0,Banking & Finance,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+70,New Amsterdam,29.7,120 SW Water ST #B,,Peoria,IL,61603,A-2 Restaurants,,1.0,1200.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+71,The Fieldhouse,33.0,1200 W Main ST #24,,Peoria,IL,61606,A-2 Restaurants,,1.0,3500.0,,1992.0,161,Non-Combustible (All Metal) Class II,25.0
+72,Southside Cleaners,27.26,121 N Macarthur HWY,,Peoria,IL,61605,B- Dry Cleaning/Laundry,,1.0,800.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+73,Pop Ups Gourment Popcorn,32.63,1212 W Bradley AVE,,Peoria,IL,61606,B- Business,12.0,1.0,1200.0,,1968.0,,Wood Frame Class V,49.0
+74,Pettengill Morron House,35.57,1212 W Moss AVE,,Peoria,IL,61606,A-3 Museums,50.0,3.0,8100.0,,1868.0,,Wood Frame Class V,149.0
+75,One Stop Shop,30.8,1213 E McClure AVE,,Peoria,IL,61603,M-Markets,,1.0,3500.0,,1968.0,511,Wood Frame Class V,49.0
+76,Sherman's,31.24782006920415,1215 W Glen AVE,,Peoria,IL,61614,M- Department Stores,,2.0,54400.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+77,Caribbean Tan & Salon,31.04,1215 W Main ST,,Peoria,IL,61606,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,1800.0,,1968.0,557,Non-Combustible (All Metal) Class II,49.0
+78,Qdoba Mexican Grill,37.4,1216 W Glen AVE,,Peoria,IL,61614,A-2 Restaurants,,1.0,2225.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+79,Cottage Care Housekeeping,31.24782006920415,1217 W Glen AVE,,Peoria,IL,61614,B- Business,,1.0,1250.0,Public Health,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+80,LA Connection,35.44,1219 S Western AVE,,Peoria,IL,61605,A-2 taverns and Bars,,2.0,1200.0,,1968.0,162,Wood Frame Class V,49.0
+81,Relics,31.24782006920415,1219 W Glen AVE,,Peoria,IL,61614,B- Business,,1.0,6000.0,Agriculture/Food,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+82,Rogy's Day Care,34.8,1221 NE Glen Oak AVE,,Peoria,IL,61603,I- Child Care,,1.0,7040.0,,1968.0,254,Ordinary (Joisted Masonry) Class III,49.0
+86,Coles Corner Tap,32.63,1227 NE Adams ST,,Peoria,IL,61603,A-2 taverns and Bars,,2.0,1500.0,,1968.0,162,Wood Frame Class V,49.0
+87,Charlie's Place,36.06,12659 NE Adams ST,,Peoria,IL,61603,B- Fire and Police Stations,25.0,2.0,22500.0,,1469.0,557,Wood Frame Class V,548.0
+103,Holman & Dailey Attorney,28.97,124 NE Madison AVE,,Peoria,IL,61603,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,1800.0,,1968.0,599,Non-Combustible (Masonry) Class I,49.0
+104,One World Eats and Drinks,36.18,1245 W Main ST,,Peoria,IL,61606,A-2 Restaurants,,2.0,32000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+105,Heartland Parking Inc.,28.6,128 NE Madison AVE,,Peoria,IL,61603,B- Business,,1.0,1000.0,,1968.0,599,Non-Combustible (Masonry) Class I,49.0
+106,Pere Marquette Parking Garage,23.83,128 SW Monroe ST,,Peoria,IL,61602,S-2 Low-Hazard Storage,,4.0,117600.0,,1968.0,882,Fire Resistive Class I,49.0
+107,Sigma Nu,24.33,1300 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,12040.0,,1968.0,462,Wood Frame Class V,49.0
+108,St Augustine Manor,32.67,1301 NE Glendale AVE,,Peoria,IL,61603,R-2 Apartment Houses,,5.0,40000.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+109,Phi Gamma Delta,24.0,1301 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,8694.0,,1968.0,462,Wood Frame Class V,49.0
+110,Olympia Bar & Grill,33.86,1301 W Pioneer PKY #125,,Peoria,IL,61615,A-2 taverns and Bars,16.0,1.0,3365.0,,1968.0,162,Non-Combustible (All Metal) Class II,49.0
+111,Short Stop Frye Food And Liquor,37.4,1302 E Frye AVE,,Peoria,IL,61603,M-Markets,,1.0,3500.0,,1968.0,519,Wood Frame Class V,49.0
+112,Subway,31.24782006920415,1307 W Glen AVE W,,Peoria,IL,61614,B- Business,,1.0,2400.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+113,Theta Chi,22.33,1308 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,7680.0,,1962.0,462,Ordinary (Joisted Masonry) Class III,55.0
+114,Alpha Epsilon Pi,16.22,1309 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,7680.0,,1968.0,462,Non-Combustible (Masonry) Class I,49.0
+115,Christ Lutheran School,33.0,1311 S Faraday AVE,,Peoria,IL,61605,E- Day care through 12th grade,20.0,1.0,34275.0,,1958.0,213,Wood Frame Class V,59.0
+116,Cameron's Furniture,31.24782006920415,1311 SW Adams ST,,Peoria,IL,61605,B- Business,,2.0,1200.0,,1968.0,529,Ordinary (Joisted Masonry) Class III,49.0
+117,Garden Gate Tap,40.33,1313 W Garden ST,,Peoria,IL,61605,A-2 taverns and Bars,15.0,1.0,1500.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+118,Salt Cave,36.06,1314 W Pioneer PKY #C,,Peoria,IL,61615,M- Retail or Wholesale Stores,17.0,1.0,1410.0,,2017.0,557,Wood Frame Class V,0.0
+119,Peoria Barber College,47.06,1315 W Garden ST,,Peoria,IL,61605,B- Barber/Beauty Shops,,1.0,1040.0,,1968.0,,Wood Frame Class V,49.0
+120,Theta Xi,17.33,1317 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,7728.0,,1968.0,462,Non-Combustible (Masonry) Class I,49.0
+121,"Garden Street Cafe""",35.2,1317 W Garden ST,,Peoria,IL,61605,B- Business,20.0,1.0,1250.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+122,Delta Upsilon,23.33,1318 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,14664.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+123,C.T. Gabert Construction,31.24782006920415,1323 SW Adams ST,,Peoria,IL,61605,M- Sales Room,20.0,2.0,40000.0,,1968.0,559,Non-Combustible (Masonry) Class I,49.0
+124,"Cusack, Patrick DMD MSD",33.86,1324 W Northmoor RD,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",12.0,1.0,3600.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+125,Friar Tuck Beverage,31.9,1401 W Glen AVE,,Peoria,IL,61614,M-Markets,30.0,1.0,14000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+126,Familia Dental,31.24782006920415,1403 W Glen AVE,,Peoria,IL,61614,B- Business,,1.0,5525.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+127,Catherine's,31.24782006920415,1405 W Glen AVE,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,3500.0,,1970.0,580,Ordinary (Joisted Masonry) Class III,47.0
+128,Sigma Chi,23.33,1408 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,13312.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+129,Club Envy,28.6,1412 SW Jefferson,,Peoria,IL,61605,A-2 Night Clubs,,1.0,3700.0,,1968.0,162,Wood Frame Class V,49.0
+130,Gamma Phi Beta,25.33,1414 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,10920.0,,1968.0,462,Wood Frame Class V,49.0
+131,Huck's #358,38.5,1415 W Alta RD,,Peoria,IL,61615,B- Business,30.0,1.0,4500.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+132,Grove Apartments,31.0,1526 W Candletree DR,,Peoria,IL,61614,R-2 Apartment Houses,25.0,1.0,9500.0,,1968.0,429,Wood Frame Class V,49.0
+421,Sigma Kappa,23.33,1418 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,9000.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+422,Trewyn K-8 School,30.43,1419 S Folkers AVE,,Peoria,IL,61605,E- Day care through 12th grade,,2.0,133500.0,,1949.0,213,Ordinary (Joisted Masonry) Class III,68.0
+423,Peoria Lock & Safe,26.4,1421 NE Jefferson AVE,,Peoria,IL,61603,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,2400.0,,2016.0,569,Non-Combustible (All Metal) Class II,1.0
+424,Thomas Boyd,31.24782006920415,1424 E Glen AVE #suite A,,Peoria,IL,61614,B- Business,,1.0,1800.0,Public Health,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+425,James Robert All State Agent,23.1,1424 W Glen AVE,,peoria,IL,61614,B- Business,,1.0,1600.0,Banking & Finance,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+426,1505 on the Avenue Apartments,39.11,1505 N Peoria AVE,,Peoria,IL,61603,R-2 Apartment Houses,110.0,11.0,60000.0,,1968.0,429,Non-Combustible (All Metal) Class II,49.0
+427,Garfield School,30.19,1507 S Lydia AVE,,Peoria,IL,61605,E- Day care through 12th grade,,2.0,56300.0,,1959.0,213,Ordinary (Joisted Masonry) Class III,58.0
+428,Sigma Delta Tau,23.33,1510 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,12920.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+429,Sigma Alpha Epsilon,21.33,1512 W Bradley AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,6720.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+430,Kappa Delta,23.33,1514 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,7380.0,,1968.0,462,Wood Frame Class V,49.0
+431,Circle K 1427,45.1,1514 W Hickory Grove RD,,Peoria,IL,61615,M-Motor Vehicle Service Stations,25.0,1.0,15000.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+432,Town House Motel,40.46,1519 N Knoxville AVE,,Peoria,IL,61603,R-1 Motel,20.0,2.0,20000.0,,1968.0,449,Ordinary (Joisted Masonry) Class III,49.0
+433,CENTRAL POOL SUPPLY,36.67,1519 W Pioneer PKY,,Peoria,IL,61615,B- Business,15.0,1.0,10000.0,,1968.0,500,Non-Combustible (Masonry) Class I,49.0
+434,Delta Tau Delta,23.33,1520 W Bradley AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,9384.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+435,Sigma Phi Epsilon,21.67,1522 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,13600.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+436,Benningfield and Associates,31.24782006920415,1524 W Glen AVE,,Peoria,IL,61614,B- Business,,1.0,5525.0,Public Health,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+437,Alpha Chi Omega,19.67,1525 W Fredonia AVE,,Peoria,IL,61606,R-2 Dormitories,,2.0,8700.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+438,Peoria Public Schools Transportation Building,30.68,1525 W Northmoor RD,,Peoria,IL,61614,M-Motor Vehicle Service Stations,,1.0,8000.0,,1950.0,579,Wood Frame Class V,67.0
+439,Pi Kappa Phi,23.33,1530 W Bradley AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,9384.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+440,Hillel House,20.33,1532 W Fredonia AVE,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,5640.0,,1968.0,462,Ordinary (Joisted Masonry) Class III,49.0
+441,Car Wise,20.53,1600 W Pioneer PKY,,Peoria,IL,61615,M- Sales Room,,1.0,8000.0,,1968.0,579,Non-Combustible (Masonry) Class I,49.0
+442,Exposition Gardens,46.2,1601 W Northmoor RD,,Peoria,IL,61614,A-3 Exhibition Halls,25.0,1.0,2080.0,,1968.0,129,Wood Frame Class V,49.0
+464,U.S. CELLULAR,31.24782006920415,1612 W Pioneer PKY,,Peoria,IL,61615,B- Telephone Exchanges,15.0,1.0,4800.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+465,JD Byrider,31.24782006920415,1613 W Pioneer PKY,,Peoria,IL,61615,M-Motor Vehicle Service Stations,,1.0,7000.0,,1968.0,579,Non-Combustible (All Metal) Class II,49.0
+466,MISSION MART THRIFT STORE,38.87,1614 W Pioneer PKY,,Peoria,IL,61615,M- Retail or Wholesale Stores,15.0,1.0,9600.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+467,Peoria High School,31.9,1615 N North ST,,Peoria,IL,61604,E- Day care through 12th grade,,4.0,325516.0,,1916.0,215,Ordinary (Joisted Masonry) Class III,101.0
+468,Whittier Primary School,32.63,1619 W Fredonia AVE,,Peoria,IL,61606,E- Day care through 12th grade,,2.0,71500.0,,1915.0,213,Ordinary (Joisted Masonry) Class III,102.0
+469,Camphill Distribution,30.68,1620 W Chanute RD #D,,Peoria,IL,61615,S-2 Low-Hazard Storage,,1.0,15000.0,,1968.0,800,Non-Combustible (All Metal) Class II,49.0
+470,La Favorita,32.76,1621 N Knoxville AVE,,Peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,4500.0,,1968.0,519,Ordinary (Joisted Masonry) Class III,49.0
+471,Camp Bow Wow,25.05,1623 W Pioneer PKY,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,8400.0,,1968.0,569,Non-Combustible (All Metal) Class II,49.0
+472,Roosevelt Middle School,32.63,1704 W Aiken AVE,,Peoria,IL,61605,E- Day care through 12th grade,,3.0,110500.0,,1932.0,213,Ordinary (Joisted Masonry) Class III,85.0
+473,PIONEER SUPPLY,32.27,1705 W Pioneer PKY,,Peoria,IL,61615,B- Business,15.0,1.0,12000.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+474,the Hillside Tap,33.0,1745 N Sheridan RD,,Peoria,IL,61604,A-2 taverns and Bars,,1.0,3000.0,,1968.0,162,Wood Frame Class V,49.0
+475,Popeyes Chicken,28.11,1800 N Knoxville AVE,,Peoria,IL,61603,A-2 Restaurants,,1.0,2800.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+476,Woodruff High School,32.63,1800 NE Perry AVE,,Peoria,IL,61603,E- Day care through 12th grade,,3.0,232000.0,,1936.0,215,Ordinary (Joisted Masonry) Class III,81.0
+477,Peoria Public Schools Building and Grounds,31.24782006920415,1801 N North ST,,Peoria,IL,61604,B- Business,,1.0,21400.0,,1942.0,549,Ordinary (Joisted Masonry) Class III,75.0
+478,Comfort Suites,34.96,1812 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,2.0,42000.0,,1991.0,449,Wood Frame Class V,26.0
+479,Griswold Food & Liquor,31.9,1814 S Griswold ST,,Peoria,IL,61605,M-Markets,25.0,1.0,4000.0,,1968.0,519,Wood Frame Class V,49.0
+480,Super 8,33.78,1816 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,3.0,30600.0,,1989.0,449,Wood Frame Class V,28.0
+481,Mariachi,35.81,1818 W War Memorial DR,,Peoria,IL,61604,A-2 Restaurants,16.0,1.0,8500.0,,1995.0,161,Wood Frame Class V,22.0
+482,UFS,29.7,1819 SW Adams ST,,Peoria,IL,61605,M- Department Stores,,1.0,30000.0,,1968.0,539,Ordinary (Joisted Masonry) Class III,49.0
+483,Northmoor Primary School,33.0,1819 W Northmoor RD,,Peoria,IL,61614,E- Day care through 12th grade,,2.0,58250.0,,1963.0,213,Ordinary (Joisted Masonry) Class III,54.0
+484,GPS TV,36.91,1821 N Knoxville AVE #B,,Peoria,IL,61603,B- Business,,1.0,1100.0,,1968.0,599,Wood Frame Class V,49.0
+485,Red Roof Inn,35.32,1822 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,2.0,45600.0,,1979.0,449,Wood Frame Class V,38.0
+486,Catholic Charities,27.62,1825 NE Adams ST,,Peoria,IL,61603,A-2 Restaurants,16.0,1.0,5000.0,,2017.0,160,Non-Combustible (All Metal) Class II,0.0
+487,South Side Market,32.51,1840 S Griswold ST,,Peoria,IL,61605,B- Business,,,6000.0,,1968.0,511,Ordinary (Joisted Masonry) Class III,49.0
+489,Duffy's,34.1,1900 W Antoinette ST,,Peoria,IL,61605,A-2 taverns and Bars,,2.0,1000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+490,Peace Brothers Tavern,42.9,1900 W Garden ST,,Peoria,IL,61605,A-2 taverns and Bars,35.0,1.0,1000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+491,Woodrow Wilson,34.83,1907 W Forrest Hill AVE,,Peoria,IL,61604,E- Day care through 12th grade,,2.0,58700.0,,1944.0,213,Ordinary (Joisted Masonry) Class III,73.0
+492,Sparky's Ringside Bar and Grill,36.3,1916 N Wisconsin AVE,,Peoria,IL,61603,A-2 taverns and Bars,,1.0,2400.0,,1968.0,162,Wood Frame Class V,49.0
+493,WalGreens #06604,27.13,1919 W Pioneer PKY,,Peoria,IL,61615,M- Drug Stores,,1.0,14490.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+494,Dan's Tow Bar,33.0,1923 SW Adams ST,,Peoria,IL,61605,A-2 taverns and Bars,,2.0,1800.0,,1968.0,162,Wood Frame Class V,49.0
+495,Courtyard Marriott,36.06,1928 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,3.0,48300.0,,1968.0,449,Wood Frame Class V,49.0
+496,Trust Detweiller,18.33,2 Caroline,,Peoria,IL,61602,B- Business,15.0,1.0,2500.0,,1968.0,898,Ordinary (Joisted Masonry) Class III,49.0
+497,Detweiller Marina,21.27,2 Caroline ST,,Peoria,IL,61602,M- Miscellaneous and Utilty Group,12.0,1.0,2200.0,,1968.0,898,Ordinary (Joisted Masonry) Class III,49.0
+498,Valley Park Shopping Center,34.1,200 N Mac Arthur HWY,,Peoria,IL,61605,M- Retail or Wholesale Stores,,1.0,6000.0,,1968.0,580,Wood Frame Class V,49.0
+499,Concordia Lutheran School,28.6,2000 W Glen AVE,,Peoria,IL,61614,E- Day care through 12th grade,,1.0,42575.0,,1959.0,213,Ordinary (Joisted Masonry) Class III,58.0
+500,Pioneer Park Building,29.09,2000 W Pioneer PKY,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",,,6000.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+502,Residence Inn,38.26,2000 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,3.0,43000.0,,1993.0,449,Wood Frame Class V,24.0
+503,Baymont Inn & Suites,34.96,2002 W War Memorial DR,,Peoria,IL,61614,R-1 Hotel,,3.0,44500.0,,1989.0,449,Wood Frame Class V,28.0
+504,Vacant Business,26.89,2005 N Knoxville AVE,,Peoria,IL,61603,B- Business,,1.0,2400.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+505,Out of Business,23.89,2006 S Griswold ST,,Peoria,IL,61605,M- Retail or Wholesale Stores,30.0,1.0,2400.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+508,Mi Familia Restaurant,37.16,2007 N Wisconsin AVE,,Peoria,IL,61603,A-2 Restaurants,,1.0,1000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+509,Forrest Hill Liquors,36.3,2009 W Forrest Hill AVE,,Peoria,IL,61604,M-Markets,25.0,1.0,2000.0,,1968.0,519,Wood Frame Class V,49.0
+510,World Finance Corporation,36.18,201 E Lake AVE #C4,,Peoria,IL,61614,B- Business,15.0,1.0,1000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+511,Peoria Civic Center,46.94,201 SW Jefferson AVE,,Peoria,IL,61602,A-1,,5.0,996000.0,,1979.0,123,Ordinary (Joisted Masonry) Class III,38.0
+512,Environmental control solutions,19.43,201 Spring ST,,Peoria,IL,61603,B- Business,,3.0,4800.0,,1968.0,599,Modified (Fire Resistive) Class I B,49.0
+513,TH Professional & Medical Collections LTD,29.33,2015 W Glen,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,800.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+514,Hutchison Engineering,26.03,2015 W Glen AVE #210,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,2700.0,,1968.0,599,Wood Frame Class V,49.0
+515,Kelly Seed & Hardware Co.,38.93,202 Hamilton BLVD,,Peoria,IL,61602,B- Business,,2.0,11400.0,,1968.0,539,Ordinary (Joisted Masonry) Class III,49.0
+516,Southside Office of Concern,31.29,202 NE Madison AVE,,Peoria,IL,61603,B- Civic Administration,,3.0,15000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+517,Security Fence Company,30.8,2022 S Griswold ST,,Peoria,IL,61605,B- Business,30.0,1.0,6600.0,,1968.0,549,Wood Frame Class V,49.0
+518,M & M Recycling,34.1,204 Morton ST,,Peoria,IL,61603,F-2 Factory Low hazard,,1.0,13952.0,,1968.0,700,Fire Resistive Class I,49.0
+519,Riverside Community Church,49.0,207 NE Monroe ST,,Peoria,IL,61603,A-3 Churches,,2.0,250002.0,National Monuments & Icons,1968.0,130,Ordinary (Joisted Masonry) Class III,49.0
+520,Jimmy John's,33.47,3720 N Prospect RD,,Peoria,IN,61614,A-2 Restaurants,,,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+523,Rose Medical Assc.,28.84,209 W RB Garrett,,Peoria,IL,61605,B- Laboratories (Testing and Research),18.0,1.0,20000.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+524,Doggie Stylez Pet Groomer,20.29,210 Morton,,Peoria,IL,61606,B- Barber/Beauty Shops,,1.0,40.0,,1968.0,549,Non-Combustible (All Metal) Class II,49.0
+525,Region National Bank,32.76,210 NE Madison AVE,,Peoria,IL,61603,B- Banks,,1.0,300.0,Banking & Finance,1968.0,592,Ordinary (Joisted Masonry) Class III,49.0
+526,Salvation Army Day Care,26.4,210 Spalding AVE,,Peoria,IL,61603,I- Child Care,,1.0,3000.0,,1968.0,321,Ordinary (Joisted Masonry) Class III,49.0
+527,Glen Oak School,31.53,2100 N Wisconsin AVE,,Peoria,IL,61603,E- Day care through 12th grade,,2.0,126000.0,,2009.0,213,Ordinary (Joisted Masonry) Class III,8.0
+528,World of Powersports,27.13,2100 W Pioneer PKY,,Peoria,IL,61615,M- Sales Room,,1.0,38500.0,,1968.0,579,Wood Frame Class V,49.0
+529,St Ann's Catholic Church,18.21,2105 W Ann ST,,Peoria,IL,61605,A-3 Churches,40.0,2.0,4800.0,,1894.0,131,Non-Combustible (Masonry) Class I,123.0
+530,One Technology Plaza,35.2,211 Fulton ST,,Peoria,IL,61602,B- Business,,7.0,153000.0,,1968.0,599,Fire Resistive Class I,49.0
+531,Packard Plaza,31.41,211 NE Adams ST,,Peoria,IL,61602,A-2 Banquet Halls,,3.0,15750.0,,1968.0,121,Ordinary (Joisted Masonry) Class III,49.0
+532,McMahill and Sons,24.81,2118 S Griswold ST,,Peoria,IL,61605,"B- Professional Services (Architects,Attys., MD,Dentists)",30.0,1.0,2400.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+533,Martinis on Water Street,31.9,212 SW Water ST,,Peoria,IL,61603,A-2 Restaurants,50.0,1.0,2000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+534,Brian Cohen MDSC,22.49,2127 SW Jefferson AVE,,Peoria,IL,61605,B- Business,,1.0,5000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+535,speed Lube,34.1,2133 N Knoxville AVE,,Peoria,IL,61603,B- Business,,1.0,4000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+536,One Fire,28.35,214 Pecan ST,,Peoria,IL,61605,B- Business,,1.0,6000.0,,1968.0,593,Ordinary (Joisted Masonry) Class III,49.0
+537,Water Works Car Wash,25.3,2145 N Knoxville AVE,,Peoria,IL,61604,B- Car Wash,12.0,1.0,675.0,,1968.0,500,Non-Combustible (Masonry) Class I,49.0
+539,Central Fixture,30.8,215 W McClure,,Peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,13000.0,,1968.0,539,Modified (Fire Resistive) Class I B,49.0
+540,B'Nai B'Rith Covenant,36.78,215 W Sam J Stone AVE,,Peoria,IL,61605,R-2 Apartment Houses,,11.0,175000.0,,1968.0,429,Fire Resistive Class I,49.0
+541,vacant (Former Driving School),39.6,2200 W War Memorial DR #CU13,,Peoria,IL,61613,B- Business,,1.0,1464.0,,1973.0,599,Non-Combustible (All Metal) Class II,44.0
+542,McDonalds,22.86,2205 N Knoxville AVE,,Peoria,IL,61603,A-2 Restaurants,16.0,1.0,5000.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+563,Dream,36.3,2205 SW Washington ST,,Peoria,IL,61605,A-2 taverns and Bars,,1.0,4400.0,,1968.0,162,Wood Frame Class V,49.0
+564,Peoria Hofbrau Restaurant,31.9,2210 NE Jefferson AVE,,Peoria,IL,61603,A-2 Restaurants,,2.0,2000.0,,1968.0,161,Wood Frame Class V,49.0
+565,Tyng School,32.63,2212 W Ann ST,,Peoria,IL,61605,E- Day care through 12th grade,,2.0,62400.0,,1913.0,213,Ordinary (Joisted Masonry) Class III,104.0
+566,Lariat Club,30.8,2232 W Glen AVE,,Peoria,IL,61614,A-2 Restaurants,30.0,1.0,18000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+567,Jimmie's Lock Shop,21.14,2238 W Glen,,peoria,IL,61614,B- Business,,1.0,1500.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+568,City Heat,38.26,2248 W Glen AVE,,Peoria,IL,61614,A-2 taverns and Bars,,1.0,1200.0,,1968.0,162,Wood Frame Class V,49.0
+569,Two 25,40.58,225 NE Adams ST,,Peoria,IL,61602,A-2 Restaurants,,1.0,3000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+570,Riverside apartments,20.66,225 Pecan ST,,Peoria,IL,61605,R-2 Apartment Houses,,1.0,10000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+571,"QUINN, JOHNSTON, HENDERSON, PRETORIUS & CERULO Law Offices",29.46,227 NE Jefferson AVE,,Peoria,IL,61603,"B- Professional Services (Architects,Attys., MD,Dentists)",,3.0,23250.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+572,Knoxville Food Mart,25.3,2300 N Knoxville AVE,,Peoria,IL,61603,M-Markets,12.0,1.0,1000.0,Agriculture/Food,1968.0,519,Non-Combustible (Masonry) Class I,49.0
+573,Associated Bank,20.66,2311 W Pioneer PKY,,Peoria,IL,61615,B- Business,25.0,1.0,4000.0,,1968.0,592,Non-Combustible (Masonry) Class I,49.0
+575,Sterling Middle School,22.73,2315 N Sterling AVE,,Peoria,IL,61604,E- Day care through 12th grade,,2.0,64600.0,,1962.0,213,Ordinary (Joisted Masonry) Class III,55.0
+576,Golfview Apartments,28.33,2331 W Dr Martin Luther King Jr DR,,Peoria,IL,61605,R-2 Apartment Houses,,3.0,35000.0,,1968.0,429,Wood Frame Class V,49.0
+580,Kroger,37.4,3311 N Sterling AVE,,Peoria,IL,61604,M-Markets,,2.0,48000.0,,1968.0,519,Non-Combustible (All Metal) Class II,49.0
+592,Greater Peoria Sanitary District,30.48,2322 S Darst ST,,Peoria,IL,61605,M- Miscellaneous and Utilty Group,40.0,1.0,22500.0,,1977.0,648,Ordinary (Joisted Masonry) Class III,40.0
+593,WalGreens,28.84,2324 W War Memorial DR,,Peoria,IL,61604,M- Drug Stores,35.0,1.0,15120.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+609,Holy Family School,30.8,2329 W Reservoir BLVD,,Peoria,IL,61615,E- Day care through 12th grade,10.0,1.0,42400.0,,1956.0,213,Ordinary (Joisted Masonry) Class III,61.0
+610,Verizon,22.86,2401 W Pioneer PKY,,Peoria,IL,61614,B- Business,20.0,1.0,4500.0,,1968.0,580,Non-Combustible (Masonry) Class I,49.0
+611,Madison Bluff Apartments,31.24782006920415,2405 W Dr Martin Luther King Jr DR,,Peoria,IL,61605,R-2 Apartment Houses,,2.0,6000.0,,1968.0,429,Wood Frame Class V,49.0
+612,Dave's Garage,34.83,2408 N Knoxville AVE,,Peoria,IL,61603,M-Motor Vehicle Service Stations,16.0,1.0,1500.0,,1968.0,579,Wood Frame Class V,49.0
+613,Dental Arts lab,33.61,241 NE Perry AVE,,Peoria,IL,61603,B- Laboratories (Testing and Research),,2.0,14400.0,,1968.0,569,Wood Frame Class V,49.0
+614,C&L Vacuum,25.3,2411 N Knoxville AVE,,Peoria,IL,61603,B- Business,,1.0,3300.0,,1968.0,539,Non-Combustible (Masonry) Class I,49.0
+615,Dollar Tree,29.46,2411 W Pioneer PKY,,Peoria,IL,61615,M- Retail or Wholesale Stores,15.0,1.0,10000.0,,1968.0,539,Non-Combustible (Masonry) Class I,49.0
+617,"Performance Pattern & Machine, Inc.",40.53,2412 SW Adams ST,,Peoria,IL,61605,F-1 Factory Moderate Hazard,,1.0,56000.0,,1968.0,700,Ordinary (Joisted Masonry) Class III,49.0
+618,Beer 30,36.3,2422 N Knoxville AVE,,Peoria,IL,61603,A-2 taverns and Bars,,2.0,2130.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+619,Behr Iron & Metal,22.0,2424 W Clark ST,,Peoria,IL,61605,B- Business,30.0,1.0,3150.0,,2011.0,700,Non-Combustible (Masonry) Class I,6.0
+620,Circle K #123,39.6,2427 W Northland AVE,,Peoria,IL,61615,M- Retail or Wholesale Stores,25.0,1.0,3500.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+621,Headz Up Barber Shop,28.6,2441 N Knoxville AVE,,Peoria,IL,61603,B- Barber/Beauty Shops,,1.0,1200.0,,1968.0,557,Non-Combustible (Masonry) Class I,49.0
+622,PTC Select,34.1,2450 N Knoxville AVE,,Peoria,IL,61603,B- Business,,1.0,6000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+623,Benson's Automotive,26.4,2453 N Knoxville AVE,,Peoria,IL,61603,B- Business,,1.0,7000.0,,1968.0,579,Non-Combustible (Masonry) Class I,49.0
+624,Quest High School,30.43,2503 N University ST,,Peoria,IL,61614,E- Day care through 12th grade,,2.0,38000.0,,1968.0,215,Ordinary (Joisted Masonry) Class III,49.0
+625,Jimmy C's,43.14,2509 N Sheridan RD,,Peoria,IL,61614,A-2 taverns and Bars,30.0,1.0,5000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+626,The Store,30.8,2514 N Sheridan RD,,Peoria,IL,61613,M- Sales Room,,2.0,23000.0,,1968.0,539,Non-Combustible (All Metal) Class II,49.0
+627,Hickory Grove Elementary School,29.6,2514 W Hickory Grove RD,,Dunlap,IL,61525,E- Day care through 12th grade,,2.0,135000.0,National Monuments & Icons,2011.0,213,Non-Combustible (All Metal) Class II,6.0
+628,"Dr. Isabelle Reed, DDS",30.8,2514 W Scenic,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,3060.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+629,Souel Spa,36.18,2524 W Farrelly AVE,,Peoria,IL,61615,B- Business,15.0,1.0,1000.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+630,Veterans Pub & Pizza,33.0,2525 NE Adams ST,,Peoria,IL,61603,A-2 taverns and Bars,25.0,2.0,1800.0,,1968.0,162,Wood Frame Class V,49.0
+631,Whitey's Tip Top Inn,43.14,2601 N Sheridan RD,,Peoria,IL,61614,A-2 taverns and Bars,30.0,1.0,5000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+632,The UPS Store,33.86,2601 W Lake AVE #A6,,Peoria,IL,61614,B- Post Office,,1.0,1800.0,,1968.0,596,Non-Combustible (All Metal) Class II,49.0
+633,Aspen Bluffs Apartments,30.33,2629 N Lavalle CT,,Peoria,IL,61604,R-2 Apartment Houses,35.0,3.0,23250.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+675,Harrison Homes,26.77,2610 W Krause,,Peoria,IL,61605,R-2 Apartment Houses,30.0,1.0,4200.0,,1968.0,599,Wood Frame Class V,49.0
+676,Quest Middle School,32.63,2612 N Bootz AVE,,Peoria,IL,61604,E- Day care through 12th grade,,2.0,48750.0,,1968.0,213,Ordinary (Joisted Masonry) Class III,49.0
+677,Fleet Pride Truck and Trailer,32.39,2616 SW Jefferson AVE,,Peoria,IL,61605,M- Retail or Wholesale Stores,18.0,1.0,32400.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+678,Knoxville Center for Student Success,30.43,2628 N Knoxville AVE,,Peoria,IL,61603,E- Day care through 12th grade,,1.0,10650.0,,1972.0,215,Ordinary (Joisted Masonry) Class III,45.0
+679,Springhill Suites,38.26,2701 W Lake AVE,,Peoria,IL,61614,R-1 Hotel,,5.0,64600.0,,1968.0,449,Wood Frame Class V,49.0
+680,Verkler,31.24782006920415,2702 SW Jefferson AVE,,Peoria,IL,61605,M-Motor Vehicle Service Stations,,1.0,6000.0,,1968.0,579,Heavy Timber Class IV,49.0
+681,Peoria Academy,28.23,2711 W Willow Knolls DR,,Peoria,IL,61615,E- Day care through 12th grade,,1.0,49000.0,,1968.0,213,Non-Combustible (All Metal) Class II,49.0
+682,Jamieson School,29.33,2721 W Richwoods BLVD,,Peoria,IL,61604,E- Day care through 12th grade,,1.0,23000.0,,1975.0,213,Ordinary (Joisted Masonry) Class III,42.0
+683,Proctor Endowment Home,39.2,2724 W Reservoir BLVD,,Peoria,IL,61615,R-1 Residential occ. where occupants are transient less than 30 days,90.0,6.0,258459.0,,1968.0,459,Ordinary (Joisted Masonry) Class III,49.0
+684,Harrison School,30.43,2727 W Krause AVE,,Peoria,IL,61605,E- Day care through 12th grade,,2.0,50000.0,,2007.0,213,Ordinary (Joisted Masonry) Class III,10.0
+685,Timberlane Apartments,32.33,2900 W War Memorial DR,,Peoria,IL,61604,R-2 Apartment Houses,,3.0,20000.0,,1968.0,142,Wood Frame Class V,49.0
+4285,Jody Kelly OB/GYN,29.21,2901 N Knoxville AVE,,Peoria,IL,61603,B- Clinic-Outpatient,,1.0,8000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4286,Central Illinois Center for the Blind and Visually Impaired,27.13,2905 W Garden ST,,Peoria,IL,61605,B- Business,25.0,1.0,3200.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+4287,Progressive Insurance Call Center,33.86,2918 W Willow Knolls DR,,Peoria,IL,61615,B- Business,14.0,1.0,10000.0,,1968.0,599,Modified (Fire Resistive) Class I B,49.0
+4288,Mutual Tap,32.76,2923 NE Adams ST,,Peoria,IL,61603,A-2 taverns and Bars,25.0,1.0,2200.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4289,Staybridge Suites,33.86,300 W Romeo B Garrett AVE,,Peoria,IL,61605,R-1 Hotel,,3.0,76200.0,,2001.0,449,Wood Frame Class V,16.0
+4290,Bogies Bar & Grill,40.7,3000 N Sterling AVE,,Peoria,IL,61604,A-2 Restaurants,,1.0,9000.0,,1968.0,161,Wood Frame Class V,49.0
+4291,New Hope Apartments,35.33,301 NE Jefferson AVE,,Peoria,IL,61603,R-2 Apartment Houses,75.0,5.0,67150.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4292,Big Lots,31.53,3013 N Sterling,,Peoria,IL,61604,B- Business,,1.0,20000.0,,1968.0,581,Ordinary (Joisted Masonry) Class III,49.0
+4293,CVS/Pharmacy,30.8,9315 N Lindbergh DR,,Peoria,IL,61615,M- Drug Stores,25.0,1.0,8000.0,,1968.0,519,Non-Combustible (All Metal) Class II,49.0
+4297,Contemporary Arts Center,34.22,305 SW Water ST,,Peoria,IL,61603,B- Business,50.0,4.0,22500.0,,1968.0,161,Heavy Timber Class IV,49.0
+4298,In-N-Out Grocery & Liquor,29.58,305 Wayne ST,,Peoria,IL,61603,M-Markets,15.0,1.0,3750.0,,1968.0,519,Wood Frame Class V,49.0
+4299,The Leiter Group,39.47,309 Main ST #A,,Peoria,IL,61602,B- Business,,3.0,3976.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4300,Proctor Recreation Center,33.6,309 S Dusable,,Peoria,IL,61605,A-4 Swimming Pools,,2.0,97200.0,,1913.0,120,Ordinary (Joisted Masonry) Class III,104.0
+4301,Ghantous Law Office,31.24782006920415,3100 N Dries LN,,Peoria,IL,61604,B- Business,,3.0,2000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4302,Taco Bell,24.93,1811 N Knoxville AVE,,Peoria,IL,61603,A-2 Restaurants,,,6000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4304,Farmers Insurance,28.72,3105 N Prospect RD,,Peoria,IL,61603,B- Business,15.0,1.0,1800.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4305,Nut House,24.44,311 Main #C,,Peoria,IL,61602,B- Car Wash,,2.0,1000.0,,1968.0,580,Heavy Timber Class IV,49.0
+4306,Richard's On Main,39.48,311 Main ST,,Peoria,IL,61602,A-2 taverns and Bars,,0.0,6000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4307,The Lofts at Waterfront Place,33.33,311 SW Water ST,,peoria,IL,61602,R-2 Apartment Houses,60.0,4.0,50560.0,,1968.0,429,Heavy Timber Class IV,49.0
+4308,American Red Cross,28.36,311 W John H Gwynn Jr AVE,,Peoria,IL,61605,B- Business,,1.0,25000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4312,Hanger Clinic,20.9,311 W Romeo B Garrett AVE,,Peoria,IL,61605,B- Clinic-Outpatient,15.0,1.0,10000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4313,Sharon Health Care South,30.93,3111 W Richwoods BLVD,,Peoria,IL,61604,R-4,12.0,1.0,31360.0,,1968.0,311,Ordinary (Joisted Masonry) Class III,49.0
+4314,Rocket Tire,28.23,312 Edmund ST,,Peoria,IL,61605,M-Motor Vehicle Service Stations,12.0,1.0,10000.0,,1968.0,571,Non-Combustible (All Metal) Class II,49.0
+4315,Rumburgers,37.28,3127 N Prospect RD,,Peoria,IL,61603,A-2 Restaurants,,1.0,2500.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4316,WMBD 31,32.51,3131 N University ST,,Peoria,IL,61614,B- Radio and television Stations,30.0,2.0,15000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4317,Peoria Public Schools Stadium,31.24782006920415,315 E War Memorial DR,,Peoria,IL,61614,A-5 Stadiums,,1.0,6000.0,,1905.0,123,Fire Resistive Class I,112.0
+4318,Tricounty Urban League,25.06,317 S Macarthur HWY,,Peoria,IL,61605,B- Business,,1.0,15000.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+4319,Azteca Mexican Restaurant,39.6,319 Main ST,,Peoria,IL,61602,A-2 Restaurants,,1.0,3500.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4320,Ross Roadhouse,33.0,3201 NE Adams ST,,Peoria,IL,61603,A-2 taverns and Bars,,2.0,3000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4321,Peoria Public Schools Administration Building,30.8,3202 N Wisconsin AVE,,Peoria,IL,61603,B- Business,,1.0,40330.0,,1972.0,599,Ordinary (Joisted Masonry) Class III,45.0
+4322,Conoco,36.06,3203 SW Adams ST,,Peoria,IL,61605,M-Motor Vehicle Service Stations,,1.0,700.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+4323,St Philomenia School,30.19,3216 N Emery,,Peoria,IL,61604,E- Day care through 12th grade,20.0,2.0,40000.0,,1948.0,213,Ordinary (Joisted Masonry) Class III,69.0
+4324,Connected,31.24782006920415,3218 N Dries LN,,Peoria,IL,61604,A-2 Restaurants,,2.0,5000.0,,1968.0,161,Wood Frame Class V,49.0
+4325,TEJ's Sports Connection,27.5,3219 NE Adams ST,,Peoria,IL,61603,A-2 taverns and Bars,30.0,2.0,3000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4326,Cue Sports College,36.18,3221 NE Adams ST,,Peoria,IL,61603,B- Business,,2.0,900.0,,1968.0,599,Wood Frame Class V,49.0
+4327,Wendy's Coins,31.04,3223 N Prospect RD,,Peoria,IL,61603,B- Business,,1.0,800.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4328,TJ Vape and Wireless,27.62,3223 NE Adams ST,,Peoria,IL,61603,M- Retail or Wholesale Stores,20.0,2.0,3600.0,,1968.0,549,Wood Frame Class V,49.0
+4329,johnson family practice,29.94,3227 N prospect RD,,peoria,IL,61603,B- Business,,1.0,1400.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+4330,Peoria County Courthouse,31.24782006920415,324 Main ST,,Peoria,IL,61602,B- Civic Administration,,0.0,6000.0,,1968.0,599,Non-Combustible (All Metal) Class II,49.0
+4331,Family Dollar,37.03,330 N western AVE,,peoria,IL,61606,M- Retail or Wholesale Stores,,1.0,10000.0,,1968.0,581,Ordinary (Joisted Masonry) Class III,49.0
+4335,Family Core,29.33,330 SW Washington ST,,Peoria,IL,61602,B- Business,,3.0,17250.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4336,Illinois Valley Glass,31.41,3300 NE Adams ST,,Peoria,IL,61603,B- Business,15.0,1.0,18000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4337,Oliver's Pizza & Pub North,26.4,3300 W Willow Knolls DR,,Peoria,IL,61615,A-2 Restaurants,20.0,2.0,3404.0,,1968.0,161,Wood Frame Class V,49.0
+4338,Fortner Insurance Agency,33.86,3304 N Prospect RD,,Peoria,IL,61603,B- Business,,1.0,2500.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4339,Miguel's Hair Salon,32.14,3307 N prospect RD,,peoria,IL,61603,B- Barber/Beauty Shops,,1.0,1000.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+4340,gucci pucci,31.04,3309 N prospect RD,,peoria,IL,61603,B- Barber/Beauty Shops,,1.0,1800.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4341,Smoking Notes,32.63,3311 N Sterling AVE #20,,Peoria,IL,61604,A-2 Restaurants,25.0,1.0,2500.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4342,Hokkaido,34.71,3311 N University ST,,Peoria,IL,61614,A-2 Restaurants,18.0,1.0,8125.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4343,prospect sound,30.92,3318 N prospect RD,,peoria,IL,61603,B- Business,,1.0,6400.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4344,prospect Florist,32.02,3319 N prospect RD,,peoria,IL,61603,B- Business,,1.0,1800.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4345,Domino's Pizza,31.04,3320 N prospect RD,,peoria,IL,61603,A-2 Restaurants,,1.0,1300.0,,1968.0,519,Ordinary (Joisted Masonry) Class III,49.0
+4346,Sharon Health Care Woods,32.13,3323 W Richwoods BLVD,,Peoria,IL,61604,R-4,,1.0,42000.0,,1968.0,311,Ordinary (Joisted Masonry) Class III,49.0
+4347,Southard Cycle,27.13,3324 NE adams,,peoria,IL,61603,B- Business,12.0,1.0,5500.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4348,Carriage Hills Apartments,35.33,3400 N Knoxville AVE,,Peoria,IL,61603,R-2 Apartment Houses,30.0,2.0,9000.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4354,Cracked Pepper Kitchen,27.13,3404 NE Adams ST,,Peoria,IL,61603,A-2 Restaurants,12.0,1.0,1800.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+4355,prospect family dental,31.29,3408 N prospect RD,,peoria,IL,61603,B- Business,,1.0,2200.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+4356,jones sewing machine co.,32.14,3410 N prospect RD,,peoria,IL,61603,B- Business,,1.0,2600.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4357,The Poor House,32.63,3410 W Willow Knolls DR,,Peoria,IL,61615,A-2 taverns and Bars,,1.0,1800.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4358,Sherwinn-Williams Paints,30.19,3416 N prospect RD,,peoria,IL,61603,B- Business,,1.0,6000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4359,Messing Siding,28.6,3416 NE Adams ST,,Peoria,IL,61603,B- Business,12.0,1.0,2200.0,,1968.0,549,Non-Combustible (Masonry) Class I,49.0
+4360,Dollar General,31.29,3419 N prospect RD,,peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,15000.0,,1968.0,581,Ordinary (Joisted Masonry) Class III,49.0
+4362,Aldi #10,30.8,3420 N University ST,,Peoria,IL,61614,M-Markets,22.0,1.0,15400.0,Agriculture/Food,2016.0,519,Wood Frame Class V,1.0
+4363,PNC Bank,24.69,3429 N prospect RD,,Peoria,IL,61603,B- Banks,,2.0,12500.0,,1968.0,592,Ordinary (Joisted Masonry) Class III,49.0
+4364,Hardees,29.21,3431 N University ST,,Peoria,IL,61614,A-2 Restaurants,,,6000.0,,1968.0,519,Wood Frame Class V,49.0
+4369,Peoria Christian,31.24782006920415,3506 N California AVE,,Peoria,IL,61604,E- Day care through 12th grade,30.0,2.0,960000.0,,1968.0,215,Non-Combustible (Masonry) Class I,49.0
+4370,Ming Shee,28.36,3510 N University ST,,Peoria,IL,61614,A-2 Restaurants,,1.0,2700.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4371,Hidden Oak Apartments,28.33,3601 N Kingston DR,,Peoria,IL,61604,R-2 Apartment Houses,30.0,2.0,11180.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4381,St Paul's Episcopal Church,34.59,3601 N North ST,,Peoria,IL,61604,A-3 Churches,,1.0,32000.0,,1959.0,131,Ordinary (Joisted Masonry) Class III,58.0
+4382,Training Domain,33.85,3611 W Willow Knolls RD,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",20.0,1.0,8100.0,,1968.0,549,Non-Combustible (All Metal) Class II,49.0
+4383,Uniformly Perfect,32.27,3705 N Sterling,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,1500.0,,1968.0,529,Ordinary (Joisted Masonry) Class III,49.0
+4384,Washington Middle School,30.43,3706 N Grand BLVD,,Peoria,IL,61603,E- Day care through 12th grade,,1.0,46900.0,,1954.0,213,Ordinary (Joisted Masonry) Class III,63.0
+4385,Frendly Valley,33.0,3708 N Meadowbrook,,Peoria,IL,61614,A-2 taverns and Bars,20.0,1.0,1500.0,,1968.0,162,Wood Frame Class V,49.0
+4386,Holy Family Church,29.58,3720 N Sterling AVE,,Peoria,IL,61604,A-3 Churches,,1.0,20000.0,,1968.0,131,Ordinary (Joisted Masonry) Class III,49.0
+4387,Sherman Liquors,35.2,3801 N Sterling AVE,,Peoria,IL,61604,M-Markets,,1.0,3000.0,,1968.0,511,Ordinary (Joisted Masonry) Class III,49.0
+4388,Tandy Leather,32.63,3807 N Sterling AVE,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,4104.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4389,Huck's #260,39.6,3819 E War Memorial DR,,Peoria,IL,61614,B- Business,12.0,1.0,3600.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+4390,Aurelio's Pizza,35.2,3821 N Sterling AVE,,Peoria,IL,61604,A-2 Restaurants,,1.0,7000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4391,Ultimate Tan,44.86,3908 W Barring Trace RD,,Peoria,IL,61614,B- Business,,1.0,16000.0,,1968.0,549,Fire Resistive Class I,49.0
+4392,Star Crest Cleaners,31.24782006920415,3910 W Baring TRCE,,Peoria,IL,61615,B- Dry Cleaning/Laundry,12.0,1.0,4800.0,,1968.0,564,Ordinary (Joisted Masonry) Class III,49.0
+4393,starcrest cleaners,30.31,3910 W barring trace,,peoria,IL,61614,B- Dry Cleaning/Laundry,,1.0,19200.0,,1968.0,564,Fire Resistive Class I,49.0
+4394,Ryan's Muffler and Brake,34.83,3915 SW Adams ST,,Peoria,IL,61605,M-Motor Vehicle Service Stations,18.0,1.0,1400.0,,1968.0,,Non-Combustible (All Metal) Class II,49.0
+4395,Olive Garden Italian Reataurant,28.6,3915 W War Memorial DR,,Peoria,IL,61604,A-2 Restaurants,25.0,1.0,8400.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4396,Applebee's Neighborhood Grill & Bar,25.3,3929 W War Memorial DR,,Peoria,IL,61604,A-2 Restaurants,25.0,1.0,5250.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4397,Heyde Eye Center,33.86,400 NE Saint Marks CT,,Peoria,IL,61603,B- Business,,1.0,3000.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+4398,Big Al's Speak Easy,27.5,400 SW Jefferson AVE,,Peoria,IL,61605,A-2 Night Clubs,,2.0,75000.0,,1968.0,162,Non-Combustible (All Metal) Class II,49.0
+4399,Salvation Army Division Office,27.13,401 NE Adams ST,,Peoria,IL,61603,B- Business,30.0,2.0,9000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4400,Spalding Pastoral Center,30.68,401 NE Madison AVE,,Peoria,IL,61603,B- Business,,3.0,25000.0,,1968.0,131,Ordinary (Joisted Masonry) Class III,49.0
+4401,Securitas,31.53,401 SW Water ST #209,,Peoria,IL,61602,B- Business,12.0,1.0,3000.0,,1912.0,599,Ordinary (Joisted Masonry) Class III,105.0
+4402,Brandywine Crossing,29.55,4010 N Brandywine DR,,Peoria,IL,61614,R-2 Apartment Houses,,,6000.0,,1968.0,429,Wood Frame Class V,49.0
+4416,Hollow Creek Apartments,30.33,4019 W Hollow Creek DR,,Peoria,IL,61615,R-2 Apartment Houses,,2.0,15000.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4581,CJ Signs,24.32,1811 SW Jefferson AVE,,Peoria,IL,61605,B- Print Shops,,,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+4583,General Downing Home for Veterans,26.33,403 Olive ST,,Peoria,IL,61605,R-2 Boarding Houses,15.0,1.0,11025.0,,1968.0,459,Wood Frame Class V,49.0
+4584,Stanley Steamer,20.53,4040 SW Adams ST,,Peoria,IL,61603,"B- Professional Services (Architects,Attys., MD,Dentists)",12.0,1.0,54600.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+4586,Cohen Development Co.,26.89,406 SW Washington ST,,Peoria,IL,61605,"B- Professional Services (Architects,Attys., MD,Dentists)",24.0,2.0,8820.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4587,Fresenius Medical,22.86,410 W Romeo B Garrett AVE,,Peoria,IL,61605,B- Clinic-Outpatient,,1.0,10000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4588,red wing shoes,34.96,4100 W Willow Knolls DR #c11,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,900.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+4589,Chase Bank Building,36.67,411 Hamilton BLVD,,Peoria,IL,61602,B- Business,,21.0,2320000.0,Banking & Finance,1968.0,599,Fire Resistive Class I,49.0
+4590,Spring Street Laundromat,29.82,411 Spring ST,,Peoria,IL,61603,B- Dry Cleaning/Laundry,,1.0,1200.0,,1968.0,564,Ordinary (Joisted Masonry) Class III,49.0
+4591,Quality Inn & Suites,35.57,4112 N Brandywine DR,,Peoria,IL,61614,R-1 Hotel,,3.0,100000.0,,1997.0,449,Wood Frame Class V,20.0
+4592,GNC,27.13,2200 W War Memorial DR #DU01,,Peoria,IL,61613,M- Retail or Wholesale Stores,,1.0,1470.0,,1973.0,549,Non-Combustible (All Metal) Class II,44.0
+4594,Touch of Class,34.1,4125 N Sheridan RD,,Peoria,IL,61614,M- Retail or Wholesale Stores,10.0,1.0,1800.0,,1968.0,581,Non-Combustible (All Metal) Class II,49.0
+4596,Daarul Uloom,24.57,4125 W Charter Oak RD,,Peoria,IL,61615,E- Day care through 12th grade,,2.0,33000.0,,2008.0,213,Non-Combustible (All Metal) Class II,9.0
+4597,New Morning Star Church,30.93,413 W John H Gwynn Jr AVE,,Peoria,IL,61605,A-3 Churches,,1.0,160000.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+4598,Salvation Army Family Services Fites Building,29.7,414 NE Jefferson AVE,,Peoria,IL,61603,R-2 Boarding Houses,,1.0,20000.0,,1968.0,439,Ordinary (Joisted Masonry) Class III,49.0
+4599,Elizabeth Street Apartments,33.0,414 W Elizabeth ST,,Peoria,IL,61606,R-2 Apartment Houses,,3.0,35000.0,,1968.0,429,Wood Frame Class V,49.0
+4600,Greenhut Memorial GAR Hall,48.53,416 Hamilton BLVD,,Peoria,IL,61602,A-3 Museums,,2.0,6642.0,,1909.0,152,Ordinary (Joisted Masonry) Class III,108.0
+4601,Commerce Bank Building,57.4,416 Main ST,,Peoria,IL,61602,B- Business,170.0,17.0,192500.0,,1968.0,599,Non-Combustible (All Metal) Class II,49.0
+4602,Salvation Army Office of Veterns Affairs,33.86,416 NE Jefferson AVE,,Peoria,IL,61603,B- Business,20.0,1.0,2500.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4603,Salvation Army Shelter,28.6,417 NE Adams ST,,Peoria,IL,61603,R-1 Residential occ. where occupants are transient less than 30 days,,2.0,30000.0,,1968.0,439,Ordinary (Joisted Masonry) Class III,49.0
+4604,Hooters,25.3,418 SW Water ST,,Peoria,IL,61603,A-2 Restaurants,,1.0,2500.0,,1968.0,160,Ordinary (Joisted Masonry) Class III,49.0
+4605,Amy's on Adams,27.5,4201 SW Adams ST,,Peoria,IL,61605,A-2 Night Clubs,,1.0,1500.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4606,Sports Clips,31.53,4203 N Sheridan AVE #A1-2,,Peoria,IL,61614,B- Barber/Beauty Shops,15.0,1.0,1800.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+4610,Smoothie King,29.7,5117 W Holiday DR,,Peoria,IL,61615,A-2 Restaurants,,1.0,600.0,Agriculture/Food,1968.0,160,Fire Resistive Class I,49.0
+4614,United Refrigeration Corp,33.0,422 NE Adams ST,,Peoria,IL,61603,M- Sales Room,,2.0,11500.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+4615,Midwest Multicare,25.67,4238 N Knoxville AVE,,Peoria,IL,61614,B- Business,15.0,1.0,2400.0,,1968.0,599,Wood Frame Class V,49.0
+4616,Goldfine and Bowles,24.93,4242 N Knoxville AVE,,Peoria,IL,61603,"B- Professional Services (Architects,Attys., MD,Dentists)",15.0,1.0,12960.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4617,Econo Lodge,33.86,4244 N Brandywine DR,,Peoria,IL,61614,R-1 Hotel,,3.0,31500.0,,1998.0,449,Wood Frame Class V,19.0
+4618,Cursens I,31.04,426 E War Memorial DR,,Peoria,IL,61614,A-2 taverns and Bars,25.0,1.0,4000.0,,1968.0,162,Wood Frame Class V,49.0
+4619,Lightner Group,25.42,427 Main ST,,Peoria,IL,61603,B- Business,,2.0,1500.0,,1968.0,,Wood Frame Class V,49.0
+4620,Extended Stay America,34.1,4306 N Brandywine DR,,Peoria,IL,61614,R-1 Hotel,,3.0,54600.0,,1968.0,449,Wood Frame Class V,49.0
+4621,Papa John's Pizza,29.58,4307 N Sheridan RD,,Peoria,IL,61614,A-2 Restaurants,10.0,1.0,1000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4622,Judy's Barber Shop,33.12,4311 N Sheridan RD,,Peoria,IL,61614,B- Barber/Beauty Shops,10.0,1.0,1000.0,,1968.0,557,Wood Frame Class V,49.0
+4623,Little Cesear's Pizza,33.86,4325 N Sheridan RD #4,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,1200.0,,1968.0,,Non-Combustible (All Metal) Class II,49.0
+4624,U-Haul,37.16,8400 N Allen RD,,Peoria,IL,61615,B- Business,15.0,1.0,90000.0,,1968.0,899,Ordinary (Joisted Masonry) Class III,49.0
+4628,the book rack,36.3,4408 N Knoxville AVE #2B,,Peoria,IL,61614,M- Retail or Wholesale Stores,15.0,1.0,1000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4629,Freedom Mobile,34.47,4410 N Knoxville #A,,Peoria,IL,61614,B- Business,15.0,1.0,3000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4630,Crittenton Ctr,30.56,442 W John H Gwynn Jr AVE,,Peoria,IL,61605,B- Business,,1.0,15000.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+4631,Kouri's Pub,29.7,4421 N Sterling AVE,,Peoria,IL,61604,A-2 taverns and Bars,25.0,1.0,4000.0,,1968.0,162,Wood Frame Class V,49.0
+4632,Neff Accounting,31.17,4424 N Sheridan RD,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",12.0,1.0,1800.0,,1968.0,599,Wood Frame Class V,49.0
+4633,Donnelly's Pub,31.24782006920415,4501 N Rockwood RD,,Peoria,IL,61604,A-2 taverns and Bars,,1.0,6000.0,,1968.0,162,Wood Frame Class V,49.0
+4634,IT 360,28.11,4501 N Sterling AVE #105,,Peoria,IL,61615,B- Business,,1.0,4300.0,Information Technology,1973.0,599,Non-Combustible (All Metal) Class II,44.0
+4635,Starcrest Cleaners,29.21,7504 N University ST,,Peoria,IL,61614,B- Dry Cleaning/Laundry,12.0,1.0,4200.0,,1968.0,564,Ordinary (Joisted Masonry) Class III,49.0
+4640,Bensons-Maytag,31.66,4510 N Brandywine DR,,Peoria,IL,61614,M- Retail or Wholesale Stores,,2.0,11200.0,,1968.0,539,Ordinary (Joisted Masonry) Class III,49.0
+4641,Chipotle Mexican Grill,27.5,4512 N Sterling AVE,,Peoria,IL,61604,A-2 Restaurants,,1.0,2500.0,,1968.0,161,Wood Frame Class V,49.0
+4642,Eyeglass World,36.05,4530 N Brandywine DR,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,6000.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4643,Verlo Mattress Company,30.8,4538 N Brandywine DR,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,7000.0,,1968.0,549,Wood Frame Class V,49.0
+4644,Donna's,17.97,456 Fulton CT #1690,,Peoria,IL,61602,B- Business,,1.0,200.0,,1968.0,161,Non-Combustible (Masonry) Class I,49.0
+4645,Smoking Pleasure,31.9,456 Fulton ST #150,,Peoria,IL,61602,M- Retail or Wholesale Stores,,1.0,500.0,,1968.0,549,Fire Resistive Class I,49.0
+4646,Hines Primary School,32.63,4603 N Knoxville AVE,,Peoria,IL,61603,E- Day care through 12th grade,,2.0,50000.0,,1948.0,213,Ordinary (Joisted Masonry) Class III,69.0
+4647,Rizzi's,31.24782006920415,4613 N Sheridan RD,,Peoria,IL,61614,A-2 Restaurants,,1.0,3500.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+4648,Regions Bank,25.3,4616 N Sterling,,Peoria,IL,61614,B- Banks,,1.0,4100.0,,1968.0,592,Ordinary (Joisted Masonry) Class III,49.0
+4649,Oreck clean Home Center,31.53,4620 N University ST #9,,Peoria,IL,61614,B- Business,18.0,1.0,2000.0,,1980.0,539,Ordinary (Joisted Masonry) Class III,37.0
+4650,Red Lobster,26.89,4625 N Sterling AVE,,Peoria,IL,61604,A-2 Restaurants,16.0,1.0,8300.0,,1968.0,161,Wood Frame Class V,49.0
+4651,Sprint,37.16,2200 W War Memorial DR #A109A,,Peoria,IL,61613,M- Sales Room,,1.0,1905.0,,1973.0,580,Non-Combustible (All Metal) Class II,44.0
+4653,Sherwin Williams,33.0,4807 N Rockwood DR,,Peoria,IL,61615,B- Business,,1.0,4500.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4655,The Digital Store,31.53,4813 N Rockwood DR,,Peoria,IL,61615,B- Business,,1.0,2500.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4656,Men's Warehouse,33.73,4819 N Rockwood DR,,Peoria,IL,61615,B- Business,,1.0,11000.0,,1968.0,529,Ordinary (Joisted Masonry) Class III,49.0
+4657,Chili's Grill & Bar,30.8,4825 N University ST,,Peoria,IL,61614,A-2 Restaurants,,1.0,5800.0,,1968.0,161,Wood Frame Class V,49.0
+4658,Visioncare,34.96,4900 N Glen Park PL #C,,Peoria,IL,61614,B- Business,,1.0,3500.0,,1968.0,,Wood Frame Class V,49.0
+4659,soderstrum Skin Institute,30.55,4909 N Glen Park PL #1,,Peoria,IL,61614,B- Clinic-Outpatient,,1.0,470.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4660,AMERICAN FAMILY INSURANCE,31.24782006920415,4917 N SHERIDAN,,PEORIA,IL,61614,B- Business,,1.0,6000.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4661,ADVANCED MEDICAL Home Care,31.24782006920415,4918 N SHERIDAN,,Peoria,IL,61614,M- Retail or Wholesale Stores,15.0,1.0,3000.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+4662,ALLIED LOCK AND SAFE,31.24782006920415,4919 N SHERIDAN,,Peoria,IL,61614,B- Business,,1.0,6000.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4663,Fish House,33.0,4919 N University ST,,Peoria,IL,61614,A-2 Restaurants,,2.0,6000.0,,1968.0,161,Wood Frame Class V,49.0
+4664,Soderstrum Dermatology,27.13,4920 N Glen Park PL,,Peoria,IL,61614,B- Business,14.0,1.0,15000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4665,out of business,34.47,4921 N Glen Park PL,,Peoria,IL,61614,B- Business,,1.0,8000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4666,JAYLAS BOUTIQUE,31.24782006920415,4921 N SHERIDAN,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,6000.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+4667,BRANDED COUNTRY WEAR,24.08,4923 N SHERIDAN,,PEORIA,IL,61614,M- Retail or Wholesale Stores,,1.0,1200.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+4668,Gailey Eye Clinic,25.42,4927 N Glen Park PL,,Peoria,IL,61614,B- Business,,1.0,5625.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4669,Bradford Woods,30.33,6900 N Summershade CIR,,Peoria,IL,61615,R-2 Apartment Houses,30.0,1.0,3000.0,,1968.0,429,Wood Frame Class V,49.0
+4769,The Great Escape,36.91,5000 W Holiday DR,,Peoria,IL,61615,M- Retail or Wholesale Stores,18.0,1.0,40000.0,,1968.0,580,Wood Frame Class V,49.0
+4770,Wendy's Restaurant,30.31,5001 N Big Hollow RD,,Peoria,IL,61614,A-2 Restaurants,16.0,1.0,2750.0,,1968.0,161,Wood Frame Class V,49.0
+4771,Enchanted Florist,25.06,5001 W American Prairie DR,,Peoria,IL,61615,B- Business,12.0,1.0,5985.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4772,Country Financial Insurance,31.24782006920415,5005 W American Prairie DR,,Peoria,IL,61615,B- Business,,1.0,1800.0,,2007.0,599,Non-Combustible (Masonry) Class I,10.0
+4773,Soderstrum annex building,25.54,5006 N Glen Park PL,,Peoria,IL,61614,B- Business,,1.0,3750.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4782,Oasis,31.24782006920415,5007 W American Prairie DR,,Peoria,IL,61615,B- Business,15.0,1.0,1200.0,,2007.0,599,Non-Combustible (Masonry) Class I,10.0
+4786,Illinois Neurological Institute,33.73,5009 N Glen Park PL,,Peoria,IL,61614,B- Clinic-Outpatient,14.0,1.0,3000.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4787,Lamour Nails,32.76,5009 W American Prairie DR,,Peoria,IL,61615,B- Business,12.0,1.0,3375.0,,2007.0,557,Non-Combustible (Masonry) Class I,10.0
+4788,Table 19,48.0,501 Main ST,,Peoria,IL,61602,A-2 taverns and Bars,,1.0,2500.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+4789,AmeriCash,36.06,5012 N Big Hollow RD #A,,Peoria,IL,61614,B- Business,,1.0,800.0,,1968.0,599,Non-Combustible (All Metal) Class II,49.0
+4790,Fitness For All,22.61,5015 W American Prairie DR,,Peoria,IL,61615,B- Business,12.0,1.0,3750.0,,2007.0,549,Non-Combustible (Masonry) Class I,10.0
+4791,ACPM Podiatry Group LTD,33.37,5017 N Glen Park PL,,Peoria,IL,61614,B- Clinic-Outpatient,14.0,1.0,700.0,,1968.0,340,Ordinary (Joisted Masonry) Class III,49.0
+4792,Culvers,21.63,5019 W Holiday DR,,Peoria,IL,61615,A-2 Restaurants,15.0,1.0,4800.0,,1968.0,161,Fire Resistive Class I,49.0
+4793,Lawnview Apartments,32.33,5021 N University ST,,Peoria,IL,61614,R-2 Apartment Houses,,2.0,15680.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4795,Good Tequilas Mexican Bar & Grill,33.0,5025 W American Prairie DR,,Peoria,IL,61615,A-2 Restaurants,,1.0,6000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4796,Five Senses Spa and Salon,29.94,5035 W American Prairie DR,,Peoria,IL,61615,B- Barber/Beauty Shops,20.0,1.0,7200.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+4797,Steak-N- shake,31.24782006920415,5036 N Big Hollow RD,,Peoria,IL,61614,B- Business,,1.0,3150.0,Agriculture/Food,1968.0,519,Ordinary (Joisted Masonry) Class III,49.0
+4798,5 Senses,27.26,5037 W American Prairie DR,,Peoria,IL,61615,B- Barber/Beauty Shops,,1.0,3000.0,,1968.0,557,Fire Resistive Class I,49.0
+4799,MedExpress,31.9,5038 N Big Hollow RD,,Peoria,IL,61614,B- Clinic-Outpatient,18.0,1.0,2600.0,Public Health,2017.0,341,Non-Combustible (All Metal) Class II,0.0
+4800,Core Life Eatery,39.36,5040 N Big Hollow RD,,Peoria,IL,61615,A-2 Restaurants,20.0,1.0,2200.0,,2017.0,161,Wood Frame Class V,0.0
+4801,Red Carpet Car Wash,16.13,505 NE Jefferson AVE,,Peoria,IL,61603,B- Car Wash,,1.0,3000.0,,1968.0,571,Non-Combustible (Masonry) Class I,49.0
+4805,Central Fire House,25.67,505 NE Monroe ST,,Peoria,IL,61603,B- Fire and Police Stations,,2.0,25000.0,,1968.0,599,Non-Combustible (All Metal) Class II,49.0
+4806,Easter Seals,28.36,507 E Armstrong AVE,,Peoria,IL,61603,B- Clinic-Outpatient,,2.0,25000.0,Public Health,1968.0,331,Ordinary (Joisted Masonry) Class III,49.0
+4807,Joan's Trophy and Plaque,39.87,508 NE Jefferson AVE,,Peoria,IL,61603,B- Business,,2.0,12600.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+4808,Peoria Awning,31.41,509 NE Adams ST,,Peoria,IL,61603,B- Business,,1.0,2200.0,,1968.0,539,Ordinary (Joisted Masonry) Class III,49.0
+4809,Hickory River Smokehouse,25.3,5101 W Holiday DR,,Peoria,IL,61615,A-2 Restaurants,,1.0,4000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4810,Notre Dame High School,30.43,5105 N Sheridan RD,,Peoria,IL,61614,E- Day care through 12th grade,30.0,2.0,480000.0,,1968.0,215,Ordinary (Joisted Masonry) Class III,49.0
+4811,OSF Internal Medicine Pediatric,28.6,5114 N Glen Park PL #110,,Peoria,IL,61614,B- Clinic-Outpatient,,1.0,25000.0,Public Health,1968.0,340,Non-Combustible (All Metal) Class II,49.0
+4812,Pier One Imports,31.24782006920415,5115 W Holiday DR,,Peoria,IL,61615,B- Business,,1.0,10000.0,,1968.0,581,Non-Combustible (Masonry) Class I,49.0
+4813,AAMCO Transmissions,47.07,512 NE Jefferson AVE,,Peoria,IL,61603,B- Business,,1.0,23616.0,,1968.0,579,Ordinary (Joisted Masonry) Class III,49.0
+4814,Crane & Equipment Corp,23.96,512 W John GwynnJr AVE,,Peoria,IL,61605,B- Business,,1.0,3000.0,,1968.0,579,Modified (Fire Resistive) Class I B,49.0
+4815,Kallister Reality,38.13,512 W main ST,,Peoria,IL,61606,"B- Professional Services (Architects,Attys., MD,Dentists)",30.0,2.0,4000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4816,Buffalo Wild Wings Grill & Bar,28.6,5121 W American Prairie DR,,Peoria,IL,61615,A-2 Restaurants,30.0,1.0,5000.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+4817,The Judge's Chamber,33.73,514 Main ST,,Peoria,IL,61602,A-2 taverns and Bars,20.0,1.0,3000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4818,Common Place,33.37,514 S Shelly,,Peoria,IL,61605,B- Business,,3.0,18000.0,,1898.0,599,Ordinary (Joisted Masonry) Class III,119.0
+4819,Hoops Pub and Pizza,31.9,516 Main ST,,Peoria,IL,61602,A-2 taverns and Bars,35.0,2.0,3000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4820,ATS Boost Mobile,29.09,516 Spring ST,,Peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,924.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4821,Roy Ricketts,27.5,520 E Lake AVE,,Peoria,IL,61614,S-2 Low-Hazard Storage,,1.0,26000.0,,1978.0,891,Ordinary (Joisted Masonry) Class III,39.0
+4822,Flat Top Grill,29.7,5201 W War Memorial DR #120,,Peoria,IL,61615,A-2 Restaurants,30.0,1.0,5000.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+4823,Spirit Hallloween,33.86,5212 N Big Hollow RD #A,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,34100.0,,2000.0,581,Non-Combustible (All Metal) Class II,17.0
+4824,Charter Oak Primary School,31.53,5221 W Timberedge DR,,Peoria,IL,61615,E- Day care through 12th grade,,2.0,48600.0,,1979.0,213,Ordinary (Joisted Masonry) Class III,38.0
+4825,Super Saver Liquors,37.4,525 N Western AVE,,Peoria,IL,61605,M-Markets,,1.0,3800.0,,1968.0,519,Wood Frame Class V,49.0
+4826,The Sun Room Tanning,32.14,528 E War Memorial DR,,peoria,IL,61614,B- Business,,1.0,4500.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4827,Candlewood Suites,34.1,5300 W Landens WAY,,Peoria,IL,61615,R-1 Hotel,35.0,3.0,96105.0,,2008.0,449,Wood Frame Class V,9.0
+4828,Country Inn & Suites,30.0,5309 W Landens WAY,,Peoria,IL,61615,R-1 Hotel,,3.0,43875.0,,2008.0,449,Wood Frame Class V,9.0
+4829,TGI Fridays,25.3,5315 W Landens WAY,,Peoria,IL,61615,A-2 Restaurants,25.0,1.0,7500.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+4830,Woodsage Apts,29.67,5322 N Woodsage,,Peoria,IL,61615,R-2 Apartment Houses,25.0,3.0,15600.0,,2017.0,429,Wood Frame Class V,0.0
+4831,Courtyard by Marriott,46.8,533 Main ST,,Peoria,IL,61602,R-1 Hotel,,10.0,600000.0,,1968.0,449,Ordinary (Joisted Masonry) Class III,49.0
+4832,Apartments At Grand Prairie,32.55,5400 W Sienna LN,,Peoria,IL,61615,R-2 Apartment Houses,35.0,3.0,37500.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4839,Help at Home Group Care,26.22,5421 N Nottingham PL,,Peoria,IL,61614,R-3 Single Family Residence,,3.0,2500.0,Public Health,1968.0,419,Wood Frame Class V,49.0
+4840,Hy-Vee Convienence Gas Station,28.6,5421 W War Memorial DR,,Peoria,IL,61604,M-Motor Vehicle Service Stations,,1.0,2000.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+4841,Heartland,31.24782006920415,5600 N Glen Elm DR,,Peoria,IL,61614,R-3,,0.0,6000.0,,1968.0,459,Wood Frame Class V,49.0
+4842,Peoria Hebrew Day School,30.31,5614 N University ST,,Peoria,IL,61614,E- Day care through 12th grade,,1.0,9350.0,,1966.0,131,Wood Frame Class V,51.0
+4843,Rolling Acres Middle School,33.73,5617 N Merrimac AVE,,Peoria,IL,61614,E- Day care through 12th grade,,2.0,65366.0,,1957.0,213,Ordinary (Joisted Masonry) Class III,60.0
+4844,Hacienda El Mirador,35.2,5805 N Humboldt AVE #1,,Peoria,IL,61614,A-2 Restaurants,,1.0,1800.0,,1968.0,161,Wood Frame Class V,49.0
+4845,Cyd's,28.36,5805 N Knoxville AVE,,Peoria,IL,61614,A-2 Restaurants,,2.0,5701.0,,1968.0,161,Wood Frame Class V,49.0
+4846,Edge,37.4,5832 N Knoxville AVE #K,,Peoria,IL,61614,A-2 Restaurants,12.0,1.0,2166.0,,1968.0,161,Wood Frame Class V,49.0
+4847,Tavern on Prospect,30.8,5901 N Prospect RD #10,,Peoria,IL,61614,A-2 taverns and Bars,,1.0,1400.0,,1968.0,162,Wood Frame Class V,49.0
+4848,Catholic Diocese,26.0,600 NE Monroe ST,,Peoria,IL,61603,R-2 Convents,,1.0,2800.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4850,Peoria Polo Club,44.67,6000 W War Memorial,,Peoria,IL,61615,A-5,,1.0,80000.0,,1968.0,140,Wood Frame Class V,49.0
+4851,Mark Bills Middle School,30.43,6001 N Frostwood PKY,,Peoria,IL,61615,E- Day care through 12th grade,,2.0,48300.0,,1977.0,213,Ordinary (Joisted Masonry) Class III,40.0
+4852,St Vincent De Paul School,34.22,6001 N University ST,,Peoria,IL,61614,E- Day care through 12th grade,,1.0,77500.0,,1963.0,213,Wood Frame Class V,54.0
+4853,jehovah's witness kingdom hall,26.77,6007 N Big Hollow RD,,Peoria,IL,61614,A-3 Churches,10.0,1.0,5625.0,,1996.0,100,Fire Resistive Class I,21.0
+4854,Old Orchard Trace Apartments,29.33,6017 N Old Orchard DR,,Peoria,IL,61614,R-2 Apartment Houses,30.0,2.0,11100.0,,1972.0,429,Wood Frame Class V,45.0
+4935,Water Street Solutions,31.66,601 SW Water ST,,Peoria,IL,61602,B- Business,,1.0,20000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4936,Cityscape Apartments,26.4,601 W Remeo B Garrett,,Peoria,IL,61605,R-2 Apartment Houses,,1.0,1500.0,,1968.0,429,Wood Frame Class V,49.0
+4937,Big Hollow Convenient,31.9,6023 N Big Hollow RD,,Peoria,IL,61614,M-Markets,,1.0,4000.0,,1968.0,511,Ordinary (Joisted Masonry) Class III,49.0
+4938,Jeff Burtis State Farm,32.14,604 E war memorial DR,,peoria,IL,61614,B- Business,,1.0,2250.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4939,Peoria Area Transition Center,32.27,607 Main ST,,Peoria,IL,61602,I- Adult Care,35.0,3.0,15000.0,,1968.0,361,Ordinary (Joisted Masonry) Class III,49.0
+4940,Heartlands,33.22,607 N Hightower ST,,Peoria,IL,61605,R-2 Apartment Houses,,3.0,175000.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4941,Rogers Supply Company,31.66,610 NE Jefferson AVE,,Peoria,IL,61603,B- Business,,1.0,8000.0,,1968.0,500,Ordinary (Joisted Masonry) Class III,49.0
+4942,Basket Case,33.0,610 W Main ST,,Peoria,IL,61606,A-2 taverns and Bars,,1.0,1200.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4943,Epic,26.89,6116 N Frostwood PKY,,Peoria,IL,61615,R-3 Single Family Residence,20.0,1.0,2500.0,,1968.0,459,Wood Frame Class V,49.0
+4944,BDI Industrial Supply,31.29,613 W Lake AVE,,Peoria,IL,61614,B- Business,,,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+4946,WD Boyce Boy Scouts,31.9,614 NE Madison AVE,,Peoria,IL,61603,B- Business,,1.0,6000.0,,1968.0,140,Ordinary (Joisted Masonry) Class III,49.0
+4947,Barry's Barber Shop,31.24782006920415,615 W Glen AVE,,Peoria,IL,61614,B- Barber/Beauty Shops,,1.0,540.0,Energy (Electricity),1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4948,Main Street Liquor,36.3,615 W Main ST,,Peoria,IL,61606,M-Markets,25.0,1.0,2300.0,,1968.0,519,Wood Frame Class V,49.0
+4949,RSC Roger's Supply Co. HVAC Wholesale,40.82,616 NE Jefferson AVE,,Peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,8692.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+4950,Tannins & Hops,45.6,619 SW Water ST #A,,Peoria,IL,61603,A-2 taverns and Bars,50.0,4.0,70000.0,,1968.0,162,Heavy Timber Class IV,49.0
+4951,Youngs Shoe Repair,31.24782006920415,619 W Glen AVE,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,250.0,,1968.0,580,Non-Combustible (Masonry) Class I,49.0
+4952,Blondies,34.1,619 W Main ST,,Peoria,IL,61606,A-2 taverns and Bars,,2.0,1085.0,,1968.0,162,Wood Frame Class V,49.0
+4953,Pi Beta Phi,21.33,621 N Institute PL,,Peoria,IL,61606,R-2 Fraternities and Sororities,,3.0,19656.0,,1968.0,462,Non-Combustible (Masonry) Class I,49.0
+4954,Red Barn,32.63,621 W Glen AVE,,Peoria,IL,61614,A-2 taverns and Bars,30.0,1.0,1200.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4955,Ideal Troy Cleaners,30.19,622 W lake AVE,,peoria,IL,61614,B- Dry Cleaning/Laundry,,1.0,1000.0,,1968.0,564,Ordinary (Joisted Masonry) Class III,49.0
+4956,Monster Pawn,39.6,625 W Main ST,,Peoria,IL,61606,M- Retail or Wholesale Stores,18.0,1.0,8750.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+4957,Berlin,31.29,627 Main ST,,Peoria,IL,61602,A-2 Night Clubs,35.0,2.0,8000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4958,The Hangover,31.9,629 E Lake AVE,,Peoria,IL,61614,A-2 taverns and Bars,25.0,2.0,1500.0,,1968.0,162,Wood Frame Class V,49.0
+4959,Diesel,37.4,629 Main ST,,Peoria,IL,61602,A-2 Night Clubs,,3.0,2500.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4960,Famous City Bistro,34.1,629 W Glen AVE,,Peoria,IL,61614,A-2 Restaurants,25.0,1.0,2500.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4961,El Vista Baptist School,36.06,6301 N Syler ST,,Peoria,IL,61615,E- Day care through 12th grade,25.0,2.0,30000.0,,1979.0,213,Wood Frame Class V,38.0
+4962,Richwoods High School,29.7,6301 N University ST,,Peoria,IL,61614,E- Day care through 12th grade,,2.0,288642.0,,1955.0,215,Ordinary (Joisted Masonry) Class III,62.0
+4963,Ulrich's Rebellion Room,36.06,631 Main ST,,Peoria,IL,61602,A-2 taverns and Bars,,1.0,2500.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4964,Lindbergh Middle School,30.43,6327 N Sheridan RD,,Peoria,IL,61614,E- Day care through 12th grade,,1.0,67525.0,,1963.0,213,Ordinary (Joisted Masonry) Class III,54.0
+4965,Crows Nest,31.53,633 E Lake AVE,,Peoria,IL,61614,A-2 taverns and Bars,,1.0,2400.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+4966,Kellar School,30.43,6413 N Mt. Hawley RD,,Peoria,IL,61614,E- Day care through 12th grade,,2.0,36945.0,,1959.0,213,Ordinary (Joisted Masonry) Class III,58.0
+4967,Oak Street Wholesale,29.21,6517 N Galena RD,,Peoria,IL,61614,B- Business,,1.0,54000.0,,1968.0,891,Non-Combustible (All Metal) Class II,49.0
+4968,Sunguard,34.27,6523 N Galena RD,,Peoria,IL,61614,B- Business,12.0,1.0,30000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4969,Reed John Oral Surgery & Dental,33.49,6714 N Frostwood PKY,,Peoria,IL,61615,B- Business,15.0,1.0,2000.0,Public Health,1997.0,342,Wood Frame Class V,20.0
+4970,Po-Boy's on Frostwood,31.9,6736 N Frostwood PKY,,Peoria,IL,61615,A-2 Restaurants,35.0,2.0,2000.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4971,discount medical supplies,27.26,6738 N Frostwood PKY,,Peoria,IL,61615,B- Business,35.0,2.0,1000.0,,1968.0,569,Fire Resistive Class I,49.0
+4972,legacy investment services,29.46,6740 N Frostwood PKY,,Peoria,IL,61615,B- Business,35.0,2.0,900.0,,1968.0,599,Fire Resistive Class I,49.0
+4973,aesthetique,31.24782006920415,6745 N Frostwood PKY,,Peoria,IL,61615,B- Business,30.0,2.0,6000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+4974,rescare,29.46,6746 N Frostwood PKY,,Peoria,IL,61615,B- Business,30.0,2.0,1800.0,,1968.0,,Fire Resistive Class I,49.0
+4975,Redeemer Luthern Church,31.24782006920415,6801 N Allen RD,,Peoria,IL,61615,A-3 Churches,,0.0,87000.0,,1968.0,131,Ordinary (Joisted Masonry) Class III,49.0
+4976,CVS/Pharmacy 7797,26.4,6820 N Pear Tree LN,,Peoria,IL,61615,M- Drug Stores,30.0,1.0,10686.0,,1968.0,519,Non-Combustible (All Metal) Class II,49.0
+4977,Hawthorn Inn,31.47,6906 N Stalworth DR,,Peoria,IL,61615,I- Adult Care,15.0,1.0,25000.0,,2000.0,311,Fire Resistive Class I,17.0
+4978,Woodland Baptist Church,31.24782006920415,6915 N Allen RD,,Peoria,IL,61615,A-3 Churches,,2.0,36300.0,Information Technology,1973.0,131,Ordinary (Joisted Masonry) Class III,44.0
+4979,Lincoln K-8 School,33.73,700 Mary ST,,Peoria,IL,61603,E- Day care through 12th grade,,2.0,134777.0,,1993.0,213,Ordinary (Joisted Masonry) Class III,24.0
+4980,PALS Preschool and Kindergarten,33.6,700 NE Greenleaf ST,,Peoria,IL,61603,I- Child Care,,1.0,16544.0,,1968.0,254,Ordinary (Joisted Masonry) Class III,49.0
+4981,Marquette Building,31.22,701 Main ST,,Peoria,IL,61602,R-2 Apartment Houses,40.0,3.0,67500.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+4982,Peoria HomeThai Massage,33.86,7014 N University ST,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",15.0,1.0,2000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4983,Mimi nails and Spa,33.86,7018 N University ST,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",15.0,1.0,1200.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+4984,Millworks,34.96,7022 N University,,Peoria,IL,61614,M- Retail or Wholesale Stores,20.0,1.0,3200.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4985,Bathroom's Plus,39.07,7024 N University,,Peoria,IL,61614,M- Retail or Wholesale Stores,20.0,1.0,3150.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4986,Pi Kappa Alpha,17.67,706 N Institute PL,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,8816.0,,1968.0,462,Non-Combustible (Masonry) Class I,49.0
+4987,Schlarman House,31.24782006920415,707 NE Madison AVE,,Peoria,IL,61603,R-2 Apartment Houses,36.0,3.0,67500.0,,1977.0,429,Ordinary (Joisted Masonry) Class III,40.0
+4988,Child Evangelism Fellowship,35.81,708 E Archer AVE,,Peoria,IL,61603,A-3 Churches,25.0,1.0,5000.0,,1968.0,130,Wood Frame Class V,49.0
+4989,Marco's Pizza,24.81,708 W Glen,,Peoria,IL,61614,A-2 Restaurants,20.0,1.0,3200.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+4990,Temsters Local 627,31.24782006920415,7101 N Allen RD,,Peoria,IL,61614,B- Business,,1.0,15000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+4991,St Marks School,33.0,711 N Underhill ST,,Peoria,IL,61606,E- Day care through 12th grade,36.0,3.0,64350.0,,1924.0,213,Ordinary (Joisted Masonry) Class III,93.0
+4992,Veterans Haven,30.8,711 NE Monroe ST,,Peoria,IL,61603,R-2 Residential occ. with more than two units,,2.0,7580.0,,1968.0,439,Wood Frame Class V,49.0
+4993,Heartland Health Center,28.36,711 W John H Gwynn Jr AVE,,Peoria,IL,61605,B- Business,,1.0,30000.0,,1968.0,,Non-Combustible (Masonry) Class I,49.0
+4994,Western Liquors,37.4,712 S Western AVE,,Peoria,IL,61605,M-Markets,,1.0,8000.0,,1968.0,519,Ordinary (Joisted Masonry) Class III,49.0
+4995,Plaza Jewelry,31.24782006920415,712 W Main ST,,Peoria,IL,61606,M- Retail or Wholesale Stores,,1.0,1000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+4996,Dream Center,37.2,714 Hamilton BLVD,,Peoria,IL,61603,B- Business,,8.0,250000.0,Public Health,1968.0,599,Modified (Fire Resistive) Class I B,49.0
+4997,Burger Barge III,27.5,714 W Lake AVE,,Peoria,IL,61614,A-2 Restaurants,,1.0,3000.0,,1968.0,161,Wood Frame Class V,49.0
+4998,U. S. Post Office,28.23,715 W Glen,,Peoria,IL,61614,B- Post Office,15.0,1.0,9000.0,,1968.0,596,Non-Combustible (Masonry) Class I,49.0
+4999,Hickory Ridge Apartments,28.55,7150 N Terra Vista DR,,Peoria,IL,61614,R-2 Apartment Houses,35.0,2.0,8400.0,,1968.0,429,Wood Frame Class V,49.0
+5017,R& B Productions,33.86,7150 N University ST,,Peoria,IL,61614,B- Business,15.0,2.0,400.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5018,Quantum Health,27.62,716 W Main ST W,,Peoria,IL,61603,M- Retail or Wholesale Stores,20.0,1.0,1500.0,Agriculture/Food,1903.0,519,Ordinary (Joisted Masonry) Class III,114.0
+5019,Spotted Cow,30.56,718 W Glen AVE,,Peoria,IL,61614,A-2 Restaurants,,1.0,1600.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5020,The Main One,31.24782006920415,718 W Main ST,,peoria,IL,61606,B- Business,20.0,1.0,300.0,,1968.0,557,Wood Frame Class V,49.0
+5021,The Center for Prevention,35.6,720 W Joan AVE,,Peoria,IL,61614,I- Adult Care,16.0,2.0,32000.0,,1968.0,341,Wood Frame Class V,49.0
+5022,Computer Medics,34.95,7209 N Allen RD,,Peoria,IL,61615,B- Business,,1.0,2000.0,Information Technology,1968.0,635,Ordinary (Joisted Masonry) Class III,49.0
+5023,Khaki Jacks,36.3,7221 N Allen RD,,Peoria,IL,61615,A-2 Restaurants,,1.0,1500.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5024,Huck's #249,38.5,7225 N Allen RD,,Peoria,IL,61615,B- Business,12.0,1.0,3200.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+5025,Signature Homes,33.86,7227 N University ST,,Peoria,IL,61614,B- Business,15.0,1.0,225.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5026,Living Waters Church,32.27,7229 N Knoxville AVE,,Peoria,IL,61614,A-3 Churches,,2.0,48000.0,,1968.0,131,Non-Combustible (All Metal) Class II,49.0
+5027,Dozer Park,25.18,730 SW Jefferson AVE,,Peoria,IL,61605,A-5 Stadiums,,2.0,92000.0,,1968.0,123,Non-Combustible (All Metal) Class II,49.0
+5028,Double A's Pizza Pub,24.2,7301 N Radnor RD,,Peoria,IL,61615,A-2 Restaurants,,1.0,2500.0,,1968.0,161,Heavy Timber Class IV,49.0
+5029,Mirror Mirror Salon,31.24782006920415,7332 N University,,Peoria,IL,61614,B- Business,,1.0,6000.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+5030,UNTAMED CHEF,25.91,7338 N UNIVERSITY,,Peoria,IL,61614,A-2 Restaurants,,1.0,1200.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+5031,Oak Wood Apartments,29.78,740 W Joan CT,,Peoria,IL,61614,R-2 Apartment Houses,,4.0,125000.0,,1978.0,429,Non-Combustible (All Metal) Class II,39.0
+5032,Longhorn Steakhouse of Peoria,29.7,7401 N Grand Prairie DR,,Peoria,IL,61615,A-2 Restaurants,25.0,1.0,5900.0,,1968.0,161,Wood Frame Class V,49.0
+5033,Famous Dave's,30.8,7411 N Grand Prairie DR,,Peoria,IL,61615,A-2 Restaurants,25.0,1.0,4225.0,,1968.0,161,Wood Frame Class V,49.0
+5034,Nu-Gees Auto Sales,31.41,7419 N University ST,,Peoria,IL,61614,M- Retail or Wholesale Stores,,1.0,180.0,,1968.0,579,Wood Frame Class V,49.0
+5035,Bob Lindsay Acura,25.3,7500 N Allen RD,,Peoria,IL,61614,B- Motor Vehicle Showrooms,,1.0,16376.0,,1968.0,579,Non-Combustible (Masonry) Class I,49.0
+5036,Ressurrection Cemetery,31.24782006920415,7519 N Allen RD,,Peoria,IL,61615,A-3,,0.0,6000.0,,1968.0,130,Ordinary (Joisted Masonry) Class III,49.0
+5037,Unity Point College,26.77,7600 N Academic DR,,Peoria,IL,61615,B- Business,26.0,1.0,124708.0,Public Health,1968.0,241,Non-Combustible (All Metal) Class II,49.0
+5038,Dairy Queen,31.41,4204 N Sheridan RD,,Peoria,IL,61614,A-2 Restaurants,,,6000.0,,1968.0,161,Wood Frame Class V,49.0
+5040,Holiday Inn & Suites,30.56,7601 N Orange Prairie RD,,Peoria,IL,61615,R-1 Hotel,,4.0,74100.0,,2016.0,449,Non-Combustible (All Metal) Class II,1.0
+5041,Old Chicago,27.74,7610 N Grand Prairie DR,,Peoria,IL,61615,A-2 Restaurants,25.0,1.0,7100.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+5042,Hyvee,34.1,7610 N Orange Prairie RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,30.0,1.0,90000.0,Agriculture/Food,2015.0,519,Non-Combustible (All Metal) Class II,2.0
+5043,Charles Schwab,27.38,7702 N Grand Prairie DR #A,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,1385.0,Banking & Finance,2001.0,569,Non-Combustible (All Metal) Class II,16.0
+5044,Wingate by Wyndam,30.56,7708 N State Route 91,,Peoria,IL,61615,R-1 Hotel,,3.0,49500.0,,2008.0,449,Non-Combustible (All Metal) Class II,9.0
+5045,Pro Source,31.24782006920415,7718 N Harker DR,,Peoria,IL,61615,B- Business,,0.0,4000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5046,T-Mobile,30.68,1208 W Glen AVE,,Peoria,IL,61614,B- Business,,,6000.0,,2012.0,549,Non-Combustible (All Metal) Class II,5.0
+5048,MD's Sports Bar & Grill,31.9,7719 N University ST,,Peoria,IL,61614,A-2 taverns and Bars,14.0,1.0,4500.0,,1968.0,162,Wood Frame Class V,49.0
+5049,Haddads,31.24782006920415,7805 N University ST,,Peoria,IL,61614,A-2 Restaurants,15.0,1.0,2250.0,,1968.0,161,Wood Frame Class V,49.0
+5050,Hampton Inn & Suites,29.7,7806 N State Route 91,,Peoria,IL,61615,R-1 Hotel,,4.0,62400.0,,2009.0,449,Non-Combustible (All Metal) Class II,8.0
+5051,Elliotts,33.0,7807 N University ST,,Peoria,IL,61614,A-2 taverns and Bars,25.0,1.0,5400.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+5052,Two Chez Restaurant,35.2,7815 N Knoxville AVE #5,,Peoria,IL,61614,A-2 Restaurants,,1.0,1800.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5053,Casey's General Store,38.5,7815 N State Route 91,,Peoria,IL,61615,M-Motor Vehicle Service Stations,30.0,1.0,5000.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+5054,Circle K #136,39.6,7815 N University ST,,Peoria,IL,61614,M- Retail or Wholesale Stores,25.0,1.0,3500.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+5055,Stop N Save,31.66,800 NE Jefferson AVE,,Peoria,IL,61603,M- Retail or Wholesale Stores,,1.0,6180.0,,1968.0,511,Ordinary (Joisted Masonry) Class III,49.0
+5056,Valeska Hinton Primary School,31.53,800 W Romeo B Garrett AVE,,Peoria,IL,61605,E- Day care through 12th grade,,1.0,63000.0,,1993.0,213,Ordinary (Joisted Masonry) Class III,24.0
+5057,CROSS FIT NORTH PEORIA,31.24782006920415,8002 N Sommer ST,,Peoria,IL,61614,A-3 Gymnasiums,20.0,1.0,7200.0,,1968.0,141,Ordinary (Joisted Masonry) Class III,49.0
+5058,Von Steuben Middle School,33.73,801 E Forrest Hill AVE,,Peoria,IL,61603,E- Day care through 12th grade,,2.0,65100.0,,1936.0,213,Ordinary (Joisted Masonry) Class III,81.0
+5059,Chi Omega,20.33,801 N Tobias LN,,Peoria,IL,61606,R-2 Fraternities and Sororities,,2.0,7344.0,,1968.0,462,Wood Frame Class V,49.0
+5060,Industry Brewing Company,28.11,8012 N Hale AVE,,Peoria,IL,61615,A-2 Restaurants,16.0,1.0,24000.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+5061,Castle's Patio INN,31.66,802 W Loucks AVE,,Peoria,IL,61604,A-2 taverns and Bars,,1.0,1000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+5062,Dr Rashid & Dr Putnam Plastic Surgery,31.24782006920415,804 W Trailcreek DR,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",15.0,1.0,8125.0,,1968.0,557,Non-Combustible (All Metal) Class II,49.0
+5063,Franklin Primary School,32.63,807 W Columbia TER,,Peoria,IL,61606,E- Day care through 12th grade,,3.0,62000.0,,1921.0,213,Ordinary (Joisted Masonry) Class III,96.0
+5064,Manual Academy,31.53,811 S Griswold ST,,Peoria,IL,61605,E- Day care through 12th grade,,2.0,273200.0,,1961.0,215,Ordinary (Joisted Masonry) Class III,56.0
+5065,Hoover Storage (LaHood Equipment),30.8,809 SW Adams ST,,Peoria,IL,61605,S-2 Low-Hazard Storage,,,6000.0,,1968.0,891,Ordinary (Joisted Masonry) Class III,49.0
+5071,Advantage Auto Sales,31.41,814 W Main ST,,Peoria,IL,61606,M- Retail or Wholesale Stores,,1.0,2500.0,,1968.0,579,Ordinary (Joisted Masonry) Class III,49.0
+5072,Friendship House,25.91,816 NE Madison AVE,,Peoria,IL,61603,A-3 Community Halls,,1.0,1900.0,,1968.0,459,Non-Combustible (All Metal) Class II,49.0
+5074,MFC,21.76,817 N.E. Adams ST,,Peoria,IL,61603,M- Retail or Wholesale Stores,16.0,1.0,6000.0,,1970.0,549,Fire Resistive Class I,47.0
+5075,Hurlbult House,28.67,818 W Hurlburt ST,,Peoria,IL,61605,R-2 Apartment Houses,,3.0,40000.0,,1968.0,429,Wood Frame Class V,49.0
+5076,Shermoor Apartments,35.0,819 W Shermoor ST,,Peoria,IL,61614,R-2 Apartment Houses,30.0,2.0,37500.0,,1968.0,429,Wood Frame Class V,49.0
+5085,Mt Hawley Bowl,35.93,8200 N Hale AVE,,Peoria,IL,61604,A-3 Bowling Alleys,35.0,1.0,27000.0,,1968.0,111,Ordinary (Joisted Masonry) Class III,49.0
+5086,Advanced Technology Recycle,30.31,8202 N University ST,,Peoria,IL,61614,B- Business,,1.0,7500.0,,1968.0,599,Fire Resistive Class I,49.0
+5087,Sentry Security Fasteners,30.07,8208 N University ST,,Peoria,IL,61614,B- Business,,1.0,3200.0,,1968.0,599,Wood Frame Class V,49.0
+5088,DUNKIN DONUTS,35.57,8209 N Knoxville AVE,,Peoria,IL,61615,A-2 Restaurants,15.0,1.0,2000.0,,1968.0,519,Wood Frame Class V,49.0
+5089,Keen Tile,31.24782006920415,8224 N University ST,,Peoria,IL,61614,B- Business,,1.0,4600.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5090,Hoover Properties,34.96,815A SW Adams ST,,Peoria,IL,61605,B- Business,,,6000.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5092,Sugar Wood-Fired Bristo & Gourmet Traeats,29.7,826 SW Adams ST,,Peoria,IL,61605,A-2 Restaurants,,2.0,1300.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5093,"Foster-Jacobs, INC.",26.15,826 W MAIN ST,,Peoria,IL,61606,"B- Professional Services (Architects,Attys., MD,Dentists)",,2.0,15000.0,,1968.0,700,Non-Combustible (Masonry) Class I,49.0
+5094,Hearth and Patio,29.21,8304 N University ST,,Peoria,IL,61614,B- Business,,1.0,11000.0,,1968.0,599,Wood Frame Class V,49.0
+5095,PV II,31.24782006920415,8305 N Allen RD #Suite 2,,Peoria,IL,61615,A-2 Restaurants,,1.0,1800.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5096,Marcone,26.03,8306 N University ST,,Peoria,IL,61614,B- Business,,1.0,11000.0,,1968.0,599,Wood Frame Class V,49.0
+5097,Applianace Distributors Inc.,27.87,8320 N University ST,,Peoria,IL,61614,B- Business,,1.0,30000.0,,1968.0,599,Wood Frame Class V,49.0
+5098,Peoria Tire & Vulcanizing,36.18,8321 N Knoxville AVE,,Peoria,IL,61615,M-Motor Vehicle Service Stations,12.0,1.0,27500.0,,1968.0,571,Non-Combustible (Masonry) Class I,49.0
+5099,PIP Printing,32.51,8325 N Allen RD,,Peoria,IL,61615,B- Print Shops,12.0,1.0,22680.0,,1968.0,549,Wood Frame Class V,49.0
+5100,"Pine Glen Dental Group, LTD.",22.98,838 W Glen AVE,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",35.0,1.0,4000.0,,1968.0,342,Ordinary (Joisted Masonry) Class III,49.0
+5101,Get-er-done financial,31.24782006920415,840 Main ST,,Peoria,IL,61602,B- Business,10.0,1.0,750.0,,1968.0,569,Wood Frame Class V,49.0
+5102,Detweiller Golf Course,26.77,8412 N Galena,,Peoria,IL,61614,A-5 Amusement Park Structures,12.0,1.0,1000.0,,1968.0,,Ordinary (Joisted Masonry) Class III,49.0
+5103,ADVANCE AUTO PARTS,32.27,8412 N Knoxville AVE,,Peoria,IL,61615,M- Retail or Wholesale Stores,15.0,1.0,5625.0,,1968.0,579,Ordinary (Joisted Masonry) Class III,49.0
+5104,Walk2class,30.33,842 W Moss AVE,,Peoria,IL,61606,R-2 Apartment Houses,,2.0,20000.0,,1968.0,429,Ordinary (Joisted Masonry) Class III,49.0
+5113,WENDY'S EYEGLASS SHACK,28.97,8424 N Knoxville AVE,,Peoria,IL,61615,B- Business,12.0,1.0,1100.0,,1968.0,557,Ordinary (Joisted Masonry) Class III,49.0
+5114,RAMSAY AND ASSOCIATES,26.52,8428 N Knoxville AVE,,Peoria,IL,61615,B- Business,10.0,1.0,2025.0,,1968.0,,Wood Frame Class V,49.0
+5115,Donlan Dental,27.74,843 W Glen,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",25.0,1.0,1800.0,,1968.0,342,Wood Frame Class V,49.0
+5116,Lexis Nexis,31.24782006920415,8512 N Allen RD,,Peoria,IL,61615,B- Business,15.0,2.0,93275.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+5117,CHAPIN DAVIS INVESTMENTS,31.24782006920415,8512 N Knoxville AVE,,Peoria,IL,61615,B- Business,12.0,1.0,3900.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5118,JIMMY JOHN'S,36.67,8516 N Knoxville AVE,,Peoria,IL,61615,A-2 Restaurants,12.0,1.0,1200.0,,1968.0,160,Ordinary (Joisted Masonry) Class III,49.0
+5119,Avanti's Ristorante,27.74,8517 N Knoxville AVE,,Peoria,IL,61603,A-2 Restaurants,,1.0,8300.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5120,DAIRY QUEEN,31.24782006920415,8530 N Knoxville AVE,,Peoria,IL,61615,A-2 Restaurants,12.0,1.0,2176.0,,1968.0,160,Ordinary (Joisted Masonry) Class III,49.0
+5121,COMMERCE BANK,26.4,8615 N Knoxville AVE,,Peoria,IL,61615,B- Banks,20.0,1.0,1000.0,,1968.0,592,Ordinary (Joisted Masonry) Class III,49.0
+5122,RK Dixon,31.24782006920415,8630 N Allen RD,,Peoria,IL,61615,"B- Professional Services (Architects,Attys., MD,Dentists)",12.0,1.0,12100.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+5123,Supply Works,31.24782006920415,8700 N Allen RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,12.0,1.0,74932.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+5124,RICHARDS BUILDING SUPPLY CO,31.24782006920415,8710 N Pioneer RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,20.0,1.0,24000.0,,1968.0,569,Ordinary (Joisted Masonry) Class III,49.0
+5125,TACO BELL,31.24782006920415,8711 N Knoxville AVE,,Peoria,IL,61615,A-2 Restaurants,15.0,1.0,3000.0,,1968.0,160,Ordinary (Joisted Masonry) Class III,49.0
+5126,Hunzeker Service Agency,31.24782006920415,8720 N University ST,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",,0.0,6000.0,,1968.0,569,Non-Combustible (Masonry) Class I,49.0
+5128,ALCAST,29.45,8600 N Industrial RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,,,6000.0,,1968.0,,Non-Combustible (All Metal) Class II,49.0
+5130,Elevate Trampoline,35.81,8800 N Allen RD,,Peoria,IL,61615,A-4,22.0,1.0,35100.0,,1968.0,120,Non-Combustible (All Metal) Class II,49.0
+5131,Rumburger,27.62,8807 N knoxville AVE,,Peoria,IL,61515,A-2 Restaurants,15.0,1.0,440.0,,1968.0,161,Non-Combustible (All Metal) Class II,49.0
+5132,The Last Hurrah,35.2,8811 N Knoxville AVE,,Peoria,IL,61615,A-2 taverns and Bars,,1.0,1000.0,,1968.0,162,Ordinary (Joisted Masonry) Class III,49.0
+5133,Alcast,33.8,8820 N Pioneer RD,,Peoria,IL,61615,B- Business,,2.0,54000.0,,1968.0,700,Non-Combustible (Masonry) Class I,49.0
+5135,Unity Point Clinic,31.66,8914 N Knoxville AVE,,Peoria,IL,61614,B- Clinic-Outpatient,30.0,1.0,8640.0,,1968.0,341,Ordinary (Joisted Masonry) Class III,49.0
+5136,Wal-Mart,29.7,8915 N Allen RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,204167.0,,1968.0,581,Non-Combustible (All Metal) Class II,49.0
+5137,SOUTH SIDE TRUST & SAVINGS BANK,31.24782006920415,8919 N Knoxville AVE,,Peoria,IL,61615,B- Banks,,0.0,2000.0,,1968.0,592,Ordinary (Joisted Masonry) Class III,49.0
+5138,Vacant Warehouse,31.24782006920415,9000 N Industrial RD,,Peoria,IL,61615,F-2 Factory Low hazard,,0.0,6000.0,,1968.0,891,Ordinary (Joisted Masonry) Class III,49.0
+5139,Daves Bar,34.1,901 S Shelley ST,,Peoria,IL,61605,A-2 taverns and Bars,25.0,2.0,1800.0,,1968.0,162,Wood Frame Class V,49.0
+5140,Renovations & Restorations,40.82,901 W Main ST #B,,Peoria,IL,61606,B- Business,,1.0,2500.0,,1968.0,700,Wood Frame Class V,49.0
+5142,Blue Margarita's Mexican Bar & Grill,36.3,9010 N Allen RD,,Peoria,IL,61615,A-2 Restaurants,30.0,1.0,4600.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5143,Versailles Hamlet Apartments,34.0,927 W Loire CT,,Peoria,IL,61614,R-2 Apartment Houses,25.0,2.0,30000.0,,1968.0,429,Wood Frame Class V,49.0
+5243,Peoria Hydromatic,32.27,905 W Main ST,,Peoria,IL,61606,M-Motor Vehicle Service Stations,,1.0,5000.0,,1968.0,700,Non-Combustible (Masonry) Class I,49.0
+5244,Fastenal Corporation,22.73,910 SW Jefferson AVE,,Peoria,IL,61602,B- Business,,1.0,20000.0,,1968.0,569,Non-Combustible (All Metal) Class II,49.0
+5245,Americinn,36.06,9106 N Lindbergh DR,,Peoria,IL,61615,R-1 Hotel,,3.0,71400.0,,2000.0,449,Wood Frame Class V,17.0
+5246,MacDonald Shell #4,37.4,9109 N Allen RD,,Peoria,IL,61615,M- Retail or Wholesale Stores,,1.0,8164.0,,1968.0,571,Ordinary (Joisted Masonry) Class III,49.0
+5247,Muir omni graphics,44.67,911 W main ST #graphics,,peoria,IL,61606,"B- Professional Services (Architects,Attys., MD,Dentists)",,1.0,3000.0,,1968.0,549,Ordinary (Joisted Masonry) Class III,49.0
+5248,Simons Mortuary,31.53,912 W John H Gwynn Jr AVE,,Peoria,IL,61605,B- Business,,1.0,10000.0,,1968.0,,Fire Resistive Class I,49.0
+5249,Aldi #70,26.4,9129 N Allen RD,,Peoria,IL,61615,M-Markets,35.0,1.0,40000.0,,1968.0,519,Ordinary (Joisted Masonry) Class III,49.0
+5250,Thomas Jefferson Primary School,30.43,918 W Florence AVE,,Peoria,IL,61604,E- Day care through 12th grade,,1.0,61770.0,,1949.0,213,Ordinary (Joisted Masonry) Class III,68.0
+5251,Greeley School,27.13,919 NE Jefferson AVE,,Peoria,IL,61603,E- Day care through 12th grade,,3.0,39600.0,,1912.0,213,Ordinary (Joisted Masonry) Class III,105.0
+5252,Kemper Express,32.27,920 N Garfield AVE,,Peoria,IL,61606,B- Business,20.0,1.0,1500.0,,1968.0,599,Ordinary (Joisted Masonry) Class III,49.0
+5253,Accel Entertainment,24.08,921 W Detweiller DR,,Peoria,IL,61615,B- Business,18.0,1.0,15000.0,,1968.0,599,Non-Combustible (All Metal) Class II,49.0
+5254,steve's automotive,34.8,923 N garfield ST,,Peoria,IL,61606,M-Motor Vehicle Service Stations,20.0,2.0,14400.0,,1968.0,579,Non-Combustible (Masonry) Class I,49.0
+5255,PCCEO Headstart,31.66,923 W Millman ST,,Peoria,IL,61605,E- Day care through 12th grade,,3.0,10000.0,,1968.0,254,Ordinary (Joisted Masonry) Class III,49.0
+5256,Glen Oak Towers,32.89,926 Main ST,,Peoria,IL,61602,R-2 Apartment Houses,,18.0,350000.0,,1954.0,429,Fire Resistive Class I,63.0
+5257,Hagerty Industrial Tool Showroom,31.24782006920415,933 SW Washington ST,,Peoria,IL,61605,M- Retail or Wholesale Stores,,1.0,8675.0,,1968.0,580,Ordinary (Joisted Masonry) Class III,49.0
+5258,The Spot Coffee,36.18,9901 N Knoxville AVE,,Peoria,IL,61603,A-2 Restaurants,,1.0,1519.0,,1968.0,161,Ordinary (Joisted Masonry) Class III,49.0
+5259,Gorenz and Associates,32.27,,,Peoria,IL,61614,"B- Professional Services (Architects,Attys., MD,Dentists)",10.0,1.0,10500.0,,1968.0,599,Wood Frame Class V,49.0
